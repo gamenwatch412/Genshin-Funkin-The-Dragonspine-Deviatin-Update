@@ -1,5 +1,29 @@
-# Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+<!-- <p align="center">
+	<img width="600" height="600" src="art/iconOG.png"> 
+</p> -->
+
+# Genshin Funkin': The Dragonspine Deviatin' Update Source Code
+## About
+Across the vast world of Teyvat, a rap battle is bound to occur.
+Made on Psych Engine v0.5.2h
+
+# Credits
+### Team Credits in-game
+
+### Friday Night Funkin'
+ - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
+ - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
+ - [Kawai Sprite](https://twitter.com/kawaisprite) - Music
+
+This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.'
+
+### Genshin Impact
+ - [Hoyoverse](https://twitter.com/GenshinImpact)
+ 
+### Borrowed code from
+ - bbpanzu (End Cutscene support): https://github.com/bbpanzu/Pinkie-From-FNF
+ - Clowfoe (Enhanced FPS counter): https://github.com/Clowfoe/IMPOSTOR-UPDATE
+ - Kadedev (Kade Engine style watermark and menu tweens): https://github.com/KadeDev/Kade-Engine
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
