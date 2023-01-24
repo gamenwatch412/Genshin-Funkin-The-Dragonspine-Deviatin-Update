@@ -4,7 +4,7 @@
 
 # Genshin Funkin': The Dragonspine Deviatin' Update Source Code
 ## About
-Across the vast world of Teyvat, a rap battle is bound to occur.
+Across the vast world of Teyvat, a rap battle is bound to occur.<br />
 Made on Psych Engine v0.5.2h
 
 # Credits
