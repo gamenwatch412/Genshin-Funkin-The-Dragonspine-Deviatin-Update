@@ -2,7 +2,7 @@
 	<img width="600" height="600" src="art/iconOG.png"> 
 </p> -->
 
-# Genshin Funkin': The Dragonspine Deviatin' Update Source Code
+# Genshin Funkin': The Dragonspine Deviatin' Update
 ## About
 Across the vast world of Teyvat, a rap battle is bound to occur.<br />
 Made on Psych Engine v0.5.2h
