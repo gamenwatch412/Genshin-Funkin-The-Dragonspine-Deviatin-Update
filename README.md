@@ -21,9 +21,9 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
  - [Hoyoverse](https://twitter.com/GenshinImpact)
  
 ### Borrowed code from
- - bbpanzu (End Cutscene support): https://github.com/bbpanzu/Pinkie-From-FNF
- - Clowfoe (Enhanced FPS counter): https://github.com/Clowfoe/IMPOSTOR-UPDATE
- - Kadedev (Kade Engine style watermark and menu tweens): https://github.com/KadeDev/Kade-Engine
+ - [bbpanzu (End Cutscene support)](https://github.com/bbpanzu/Pinkie-From-FNF)
+ - [Clowfoe (Enhanced FPS counter)](https://github.com/Clowfoe/IMPOSTOR-UPDATE)
+ - [Kadedev (Kade Engine style watermark and menu tweens)](https://github.com/KadeDev/Kade-Engine)
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
