@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options basic instance 10000" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10001" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10002" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10003" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10004" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10005" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10006" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10007" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options basic instance 10008" x="0" y="0" width="426" height="129"/>
+	<SubTexture name="options white instance 10000" x="426" y="0" width="461" height="139"/>
+	<SubTexture name="options white instance 10001" x="426" y="0" width="461" height="139"/>
+	<SubTexture name="options white instance 10002" x="0" y="139" width="461" height="139"/>
+	<SubTexture name="options white instance 10003" x="0" y="139" width="461" height="139"/>
+	<SubTexture name="options white instance 10004" x="461" y="139" width="461" height="139"/>
+	<SubTexture name="options white instance 10005" x="461" y="139" width="461" height="139"/>
+	<SubTexture name="options white instance 10006" x="0" y="278" width="461" height="139"/>
+	<SubTexture name="options white instance 10007" x="461" y="278" width="461" height="139"/>
+	<SubTexture name="options white instance 10008" x="461" y="278" width="461" height="139"/>
+	<SubTexture name="options white instance 10009" x="0" y="278" width="461" height="139"/>
+	<SubTexture name="options white instance 10010" x="0" y="278" width="461" height="139"/>
+	<SubTexture name="options white instance 10011" x="461" y="139" width="461" height="139"/>
+	<SubTexture name="options white instance 10012" x="0" y="139" width="461" height="139"/>
+	<SubTexture name="options white instance 10013" x="426" y="0" width="461" height="139"/>
+	<SubTexture name="options white instance 10014" x="426" y="0" width="461" height="139"/>
+</TextureAtlas>
