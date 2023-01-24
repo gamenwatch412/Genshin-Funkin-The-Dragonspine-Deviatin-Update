@@ -3,6 +3,7 @@
 </p> -->
 
 # Genshin Funkin': The Dragonspine Deviatin' Update
+![](https://github.com/gamenwatch412/Genshin-Funkin-The-Dragonspine-Deviatin-Update/blob/main/art/iconOG.png?raw=true)
 ## About
 Across the vast world of Teyvat, a rap battle is bound to occur.<br />
 Made on Psych Engine v0.5.2h
