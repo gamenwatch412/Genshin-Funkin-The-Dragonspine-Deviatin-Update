@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "mondstadt",
+		"player1": "hu-tao",
+		"player2": "kaeya",
+		"player3": null,
+		"events": [
+			[
+				2171.05263157895,
+				[
+					[
+						"Intro",
+						"Bloom of the Wind",
+						"喵☆酱, 花园花玲,
+					诺亚rococonorya, and 小敢"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "venti",
+		"bpm": 76,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bloom of the Wind"
+	}
+}

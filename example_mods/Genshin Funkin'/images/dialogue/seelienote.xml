@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="seelienote.png">
+<SubTexture name="seelienote still0000" x="0" y="0" width="159" height="154" frameX="-1" frameY="-7" frameWidth="167" frameHeight="166" />
+</TextureAtlas>

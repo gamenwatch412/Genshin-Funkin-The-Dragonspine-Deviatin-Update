@@ -1,0 +1,31 @@
+{
+	"storyName": "Sumeru Seranadin'",
+	"difficulties": "Easy, Normal, Swapped",
+	"hideFreeplay": true,
+	"weekBackground": "sumeru",
+	"weekBefore": "amogus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"TBA",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,26 @@
+{
+	"storyName": "jade chamber",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tutorial",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"keqing",
+			[
+				199,
+				186,
+				221
+			]
+		]
+	],
+	"weekName": "Tutorial"
+}

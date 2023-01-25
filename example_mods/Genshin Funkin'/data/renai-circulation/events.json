@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "inazuma",
+		"player1": "aether-player",
+		"player2": "hu-tao-opponent",
+		"player3": null,
+		"events": [
+			[
+				641.025641025641,
+				[
+					[
+						"Intro",
+						"Renai Circulation",
+						"kinsen & 鹿喑kana"
+					]
+				]
+			],
+			[
+				186025.641025641,
+				[
+					[
+						"Screen Shake",
+						"1.7, 0.04",
+						"0, 0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "keqing",
+		"bpm": 117,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Renai Circulation"
+	}
+}

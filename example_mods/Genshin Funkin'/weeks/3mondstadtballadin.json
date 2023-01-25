@@ -1,0 +1,49 @@
+{
+	"storyName": "mondstadt balladin'",
+	"difficulties": "Easy, Normal, Alt",
+	"hideFreeplay": false,
+	"weekBackground": "mondstadt",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bloom of the Wind",
+			"kaeya",
+			[
+				33,
+				88,
+				116
+			]
+		],
+		[
+			"Heaven's Map",
+			"kaeya",
+			[
+				33,
+				88,
+				116
+			]
+		],
+		[
+			"Soldier Poet King",
+			"venti",
+			[
+				83,
+				193,
+				159
+			]
+		]
+	],
+	"weekCharacters": [
+		"mondstadtballadin",
+		"",
+		""
+	],
+	"weekName": "Mondstadt Balladin'"
+}

@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "liyue",
+		"player1": "hu-tao",
+		"player2": "xingqiu",
+		"player3": null,
+		"events": [
+			[
+				559.006211180124,
+				[
+					[
+						"Intro",
+						"Hikaru Nara",
+						"多多, kinsen, 花玲, 喵酱, 小N, 宴宁,
+						鹿喑, and 萧翟"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chongyun",
+		"bpm": 161,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hikaru Nara"
+	}
+}

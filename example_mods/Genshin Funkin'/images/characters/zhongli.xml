@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zhongli.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zhongli idle dance0000" x="0" y="0" width="1092" height="1374" frameX="-247" frameY="-195" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0001" x="1092" y="0" width="1278" height="1490" frameX="-61" frameY="-79" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0002" x="2370" y="0" width="1328" height="1422" frameX="-47" frameY="-145" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0003" x="3698" y="0" width="1270" height="1379" frameX="-105" frameY="-188" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0004" x="4968" y="0" width="1358" height="1485" frameX="-16" frameY="-83" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0005" x="6326" y="0" width="1374" height="1553" frameX="0" frameY="-15" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0006" x="0" y="1553" width="1226" height="1515" frameX="-141" frameY="-53" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0007" x="1226" y="1553" width="1262" height="1568" frameX="-105" frameY="0" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0008" x="2488" y="1553" width="1272" height="1545" frameX="-76" frameY="-24" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0009" x="3760" y="1553" width="1165" height="1378" frameX="-183" frameY="-191" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0010" x="4925" y="1553" width="1251" height="1500" frameX="-88" frameY="-69" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0011" x="6176" y="1553" width="1227" height="1499" frameX="-112" frameY="-70" frameWidth="1375" frameHeight="1569"/>
+	<SubTexture name="zhongli idle dance0012" x="0" y="3121" width="1098" height="1379" frameX="-241" frameY="-190" frameWidth="1375" frameHeight="1569"/>
+</TextureAtlas>

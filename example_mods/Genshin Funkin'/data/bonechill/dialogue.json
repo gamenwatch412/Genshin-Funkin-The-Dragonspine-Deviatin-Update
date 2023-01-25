@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "BOP BA BEEP?",
+			"boxState": "boyfriend",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "WHAT THE HELL IS THAT?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "smile",
+			"text": "MWAHAHA, you actually fell for my disguise!",
+			"boxState": "susbedo",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "susbedo"
+		},
+		{
+			"expression": "smile",
+			"text": "And now I shall annihilate you naive brats and conquer Teyvat!",
+			"boxState": "susbedo",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "susbedo"
+		},
+		{
+			"expression": "sad",
+			"text": "A cryo whopperflower disguised as me. I should've known.",
+			"boxState": "albedo",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "neutral",
+			"text": "I'll send a signal to my comrades; they are scouting the area nearby right now.",
+			"boxState": "albedo",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "neutral",
+			"text": "But for now, you need to stall him before they arrive! You know what you need to do.",
+			"boxState": "albedo",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bapboop be beepaa skdoo beepaa!",
+			"boxState": "boyfriend",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Also watch your temparature! It's colder than normal, so keep near seelies to stay warm, or you'll freeze to death.",
+			"boxState": "albedo",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "talk",
+			"text": "(You are experiencing sheer cold. If your freeze bar reaches 100%, your screen will be obsured and you'll slowly freeze to death.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sheercoldbar"
+		},
+		{
+			"expression": "talk",
+			"text": "(Hit the seelie notes to reduce the freeze bar.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "seelienote"
+		},
+		{
+			"expression": "talk",
+			"text": "(And avoid freeze notes that will increase the bar and damage you.)",
+			"boxState": "normal",
+			"portrait": "sheercoldnote",
+			"speed": 0.035,
+			"sound": ""
+		}
+	]
+}

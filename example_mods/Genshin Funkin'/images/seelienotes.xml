@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seelienotes.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="0" y="168" width="59" height="166"/>
+	<SubTexture name="blue hold piece0000" x="59" y="168" width="53" height="47"/>
+	<SubTexture name="blue0000" x="0" y="0" width="168" height="167"/>
+	<SubTexture name="green hold end0000" x="0" y="168" width="59" height="166"/>
+	<SubTexture name="green hold piece0000" x="59" y="168" width="53" height="47"/>
+	<SubTexture name="green0000" x="168" y="0" width="168" height="167"/>
+	<SubTexture name="pruple end hold0000" x="0" y="168" width="59" height="166"/>
+	<SubTexture name="purple hold piece0000" x="59" y="168" width="53" height="47"/>
+	<SubTexture name="purple0000" x="336" y="0" width="167" height="168"/>
+	<SubTexture name="red hold end0000" x="0" y="168" width="59" height="166"/>
+	<SubTexture name="red hold piece0000" x="59" y="168" width="53" height="47"/>
+	<SubTexture name="red0000" x="112" y="168" width="167" height="168"/>
+</TextureAtlas>

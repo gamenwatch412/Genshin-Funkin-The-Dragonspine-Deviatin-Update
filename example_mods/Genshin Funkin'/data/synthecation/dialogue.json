@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Suddenly, a heavy blizzard covers everyone's surroundings.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "blank"
+		},
+		{
+			"expression": "shocked",
+			"text": "BAAAP?!",
+			"boxState": "boyfriend",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Brace yourself! This is gonna hurt!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Eventually, the snowstorm subsides.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "blank"
+		},
+		{
+			"expression": "confused",
+			"text": "Whew, I think it died down.\\nThat was terrifying!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I thought I heard someone...",
+			"boxState": "question",
+			"speed": 0.035,
+			"portrait": "blank"
+		},
+		{
+			"expression": "talk",
+			"text": "Brap?",
+			"boxState": "boyfriend",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Are you two alright?",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? Oh yeah, we're fine! Thanks for the concern, Albedo.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "smile",
+			"text": "I'm glad to hear that-",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "sad",
+			"text": "Wait, I'm sorry, how do you know my name? Have we met before?",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop bep boo ba peebo?",
+			"boxState": "boyfriend",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah! We just ran into you before singing a song!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "sad",
+			"text": "Hmm... that is rather strange indeed.",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "neutral",
+			"text": "I guess the logical conclusion is that you have met an impostor that was posing as me.",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "shocked",
+			"text": "*sussy boops*",
+			"boxState": "boyfriend",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "OH GOD PLEASE NO, WHEN WILL WE EVER ESCAPE AMONG US JOKES",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ahem, sorry for the outburst, but how do we know you're the real Albedo?",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "neutral",
+			"text": "You see this star shape on my neck? It's a birth mark given to me by my creator.",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "neutral",
+			"text": "As it sounds, I am in fact a synthetic human being.",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "smile",
+			"text": "I know a special song that my creator taught me. If you would like to sing it with me, I can prove I am trustworthy.",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "boyfriend",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "As the Chief Alchemist of the Knights of Favonius however, I shall not go easy on you!",
+			"boxState": "albedo",
+			"speed": 0.035,
+			"portrait": "albedo"
+		}
+	]
+}

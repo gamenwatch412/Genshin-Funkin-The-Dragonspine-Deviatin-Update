@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "dragonspine",
+		"player1": "hu-tao",
+		"player2": "albedo",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Crimsong (Selever)",
+						"Vzer\nVocal Cover by Gamenwatch412"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 138,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Crimsong"
+	}
+}

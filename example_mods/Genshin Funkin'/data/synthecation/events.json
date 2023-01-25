@@ -1,0 +1,124 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "dragonspine",
+		"player1": "bf-christmas",
+		"player2": "hu-tao-opponent",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Synthecation",
+						"Gamenwatch412"
+					]
+				]
+			],
+			[
+				54193.5483870968,
+				[
+					[
+						"Add Camera Zoom",
+						"0.086",
+						""
+					]
+				]
+			],
+			[
+				72774.1935483872,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0"
+					]
+				]
+			],
+			[
+				94451.6129032259,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				94451.6129032259,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				94887.0967741937,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					],
+					[
+						"Image Event",
+						"ready",
+						"1"
+					]
+				]
+			],
+			[
+				95286.2903225808,
+				[
+					[
+						"Image Event",
+						"set",
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				95685.4838709679,
+				[
+					[
+						"Image Event",
+						"go",
+						"0.35"
+					],
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				96000.0000000001,
+				[
+					[
+						"Add Camera Zoom",
+						"0.086",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Synthecation"
+	}
+}

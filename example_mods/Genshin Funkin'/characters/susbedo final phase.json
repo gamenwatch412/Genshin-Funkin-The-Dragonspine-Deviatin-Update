@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-17,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "susbedo final phase idle0"
+		},
+		{
+			"offsets": [
+				35,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "susbedo final phase left0"
+		},
+		{
+			"offsets": [
+				60,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "susbedo final phase down0"
+		},
+		{
+			"offsets": [
+				-16,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "susbedo final phase up0"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "susbedo final phase right0"
+		},
+		{
+			"offsets": [
+				60,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "susbedo final phase down alt0"
+		},
+		{
+			"offsets": [
+				-16,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "susbedo final phase up alt0"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "susbedo final phase right alt0"
+		},
+		{
+			"offsets": [
+				35,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "susbedo final phase left alt0"
+		},
+		{
+			"offsets": [
+				4,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "susbedo scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				6
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "susbedo final phase idle alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/susbedo_final_phase",
+	"position": [
+		-80,
+		50
+	],
+	"healthicon": "susbedo",
+	"flip_x": false,
+	"healthbar_colors": [
+		68,
+		146,
+		234
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.11
+}

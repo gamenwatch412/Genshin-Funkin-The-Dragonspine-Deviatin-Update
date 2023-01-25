@@ -1,0 +1,49 @@
+{
+	"storyName": "dragonspine deviatin'",
+	"difficulties": "Easy, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "dragonspine",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Moonlike Smile",
+			"albedo",
+			[
+				252,
+				244,
+				195
+			]
+		],
+		[
+			"Synthecation",
+			"albedo",
+			[
+				252,
+				244,
+				195
+			]
+		],
+		[
+			"Bonechill",
+			"susbedo",
+			[
+				68,
+				146,
+				234
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		"dragonspinedeviatin"
+	],
+	"weekName": "Dragonspine Deviatin'"
+}

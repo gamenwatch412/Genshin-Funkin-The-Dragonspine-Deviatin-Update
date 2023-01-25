@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kaeya idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kaeya NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				177
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kaeya NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				150
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "kaeya HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				49
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "kaeya hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-86,
+				12
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "kaeya idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				32
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "kaeya dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-48,
+				27
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "kaeya Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				83
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "kaeya Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-101,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kaeya NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-110,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kaeya NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-132,
+				207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "kaeya NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-76,
+				195
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "kaeya NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-90,
+				202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "kaeya NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-86,
+				142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "kaeya NOTE DOWN MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kaeya",
+	"position": [
+		-110,
+		390
+	],
+	"healthicon": "kaeya",
+	"flip_x": true,
+	"healthbar_colors": [
+		33,
+		88,
+		116
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

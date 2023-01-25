@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "inazuma",
+		"player1": "hu-tao",
+		"player2": "aether",
+		"player3": null,
+		"events": [
+			[
+				842.696629213483,
+				[
+					[
+						"Intro",
+						"Saikai",
+						"kinsen & 鹿喑kana"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "keqing",
+		"bpm": 89,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Saikai"
+	}
+}

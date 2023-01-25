@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "inazuma",
+		"player1": "hu-tao",
+		"player2": "aether",
+		"player3": null,
+		"events": [
+			[
+				846.153846153846,
+				[
+					[
+						"Intro",
+						"Vigilant Yaksha",
+						"kinsen"
+					]
+				]
+			],
+			[
+				50730.7692307693,
+				[
+					[
+						"Hey!",
+						"yolo",
+						""
+					],
+					[
+						"Play Animation",
+						"hey",
+						"aether"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "keqing",
+		"bpm": 195,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Vigilant Yaksha"
+	}
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="albedo dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="albedo dialogue neutral0000" x="0" y="0" width="890" height="1030" frameX="-18" frameY="0" frameWidth="908" frameHeight="1030"/>
+	<SubTexture name="albedo dialogue neutral0001" x="0" y="0" width="890" height="1030" frameX="-18" frameY="0" frameWidth="908" frameHeight="1030"/>
+	<SubTexture name="albedo dialogue neutral0002" x="890" y="0" width="891" height="1010" frameX="-8" frameY="-17" frameWidth="908" frameHeight="1030"/>
+	<SubTexture name="albedo dialogue neutral0003" x="890" y="0" width="891" height="1010" frameX="-8" frameY="-17" frameWidth="908" frameHeight="1030"/>
+	<SubTexture name="albedo dialogue neutral0004" x="1781" y="0" width="892" height="986" frameX="0" frameY="-40" frameWidth="908" frameHeight="1030"/>
+	<SubTexture name="albedo dialogue neutral0005" x="1781" y="0" width="892" height="986" frameX="0" frameY="-40" frameWidth="908" frameHeight="1030"/>
+	<SubTexture name="albedo dialogue sad0000" x="2673" y="0" width="890" height="1029" frameX="-18" frameY="0" frameWidth="908" frameHeight="1029"/>
+	<SubTexture name="albedo dialogue sad0001" x="2673" y="0" width="890" height="1029" frameX="-18" frameY="0" frameWidth="908" frameHeight="1029"/>
+	<SubTexture name="albedo dialogue sad0002" x="0" y="1030" width="891" height="1007" frameX="-8" frameY="-19" frameWidth="908" frameHeight="1029"/>
+	<SubTexture name="albedo dialogue sad0003" x="0" y="1030" width="891" height="1007" frameX="-8" frameY="-19" frameWidth="908" frameHeight="1029"/>
+	<SubTexture name="albedo dialogue sad0004" x="891" y="1030" width="892" height="989" frameX="0" frameY="-36" frameWidth="908" frameHeight="1029"/>
+	<SubTexture name="albedo dialogue sad0005" x="891" y="1030" width="892" height="989" frameX="0" frameY="-36" frameWidth="908" frameHeight="1029"/>
+	<SubTexture name="albedo dialogue smile0000" x="1783" y="1030" width="890" height="1025" frameX="-18" frameY="0" frameWidth="908" frameHeight="1025"/>
+	<SubTexture name="albedo dialogue smile0001" x="1783" y="1030" width="890" height="1025" frameX="-18" frameY="0" frameWidth="908" frameHeight="1025"/>
+	<SubTexture name="albedo dialogue smile0002" x="2673" y="1030" width="891" height="1005" frameX="-8" frameY="-17" frameWidth="908" frameHeight="1025"/>
+	<SubTexture name="albedo dialogue smile0003" x="2673" y="1030" width="891" height="1005" frameX="-8" frameY="-17" frameWidth="908" frameHeight="1025"/>
+	<SubTexture name="albedo dialogue smile0004" x="0" y="2055" width="892" height="986" frameX="0" frameY="-35" frameWidth="908" frameHeight="1025"/>
+	<SubTexture name="albedo dialogue smile0005" x="0" y="2055" width="892" height="986" frameX="0" frameY="-35" frameWidth="908" frameHeight="1025"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "gateway",
+		"player1": "gatewaybf",
+		"player2": "bf",
+		"player3": null,
+		"events": [
+			[
+				365.853658536585,
+				[
+					[
+						"Intro",
+						"Celestial Destiny (Acoustic)",
+						"Yu-Peng Chen
+Vocal Cover by Gamenwatch412"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chongyun",
+		"bpm": 164,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Celestial Destiny"
+	}
+}

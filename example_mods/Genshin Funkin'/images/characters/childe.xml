@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="childe.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="childe idle dance 0000" x="0" y="0" width="1704" height="2330"/>
+	<SubTexture name="childe idle dance 0001" x="0" y="0" width="1704" height="2330"/>
+	<SubTexture name="childe idle dance 0002" x="1704" y="0" width="1695" height="2298" frameX="0" frameY="-32" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0003" x="1704" y="0" width="1695" height="2298" frameX="0" frameY="-32" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0004" x="3399" y="0" width="1687" height="2291" frameX="-2" frameY="-38" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0005" x="3399" y="0" width="1687" height="2291" frameX="-2" frameY="-38" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0006" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0007" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0008" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0009" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0010" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0011" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0012" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+	<SubTexture name="childe idle dance 0013" x="5086" y="0" width="1683" height="2260" frameX="-1" frameY="-69" frameWidth="1704" frameHeight="2330"/>
+</TextureAtlas>

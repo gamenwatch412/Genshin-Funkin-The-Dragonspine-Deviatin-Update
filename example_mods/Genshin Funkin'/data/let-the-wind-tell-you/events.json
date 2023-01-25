@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "liyue",
+		"player1": "hu-tao",
+		"player2": "xingqiu",
+		"player3": null,
+		"events": [
+			[
+				512.820512820513,
+				[
+					[
+						"Intro",
+						"Let the Wind Tell You",
+						"花园花玲, 喵☆酱, 宴宁ccccc, and kinsen"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chongyun",
+		"bpm": 117,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Let the Wind Tell You"
+	}
+}

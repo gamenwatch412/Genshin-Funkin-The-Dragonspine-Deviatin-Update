@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "jade chamber",
+		"player1": "hu-tao",
+		"player2": "keqing",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Tutorial",
+						"KawaiSprite
+Vocal Cover by Gamenwatch412"
+					]
+				]
+			],
+			[
+				18650,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28250,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "blank",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Tutorial"
+	}
+}

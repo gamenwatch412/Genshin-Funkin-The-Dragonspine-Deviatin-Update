@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "There you two are! I've been looking for you!",
+			"boxState": "question",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "confused",
+			"text": "Skee bo?",
+			"boxState": "boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "susbedo",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "susbedo"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "albedo",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "albedo"
+		},
+		{
+			"expression": "confused",
+			"text": "Welp, this is awkward...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Guess I've been found out.",
+			"boxState": "susbedo",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "susbedo"
+		}
+	]
+}

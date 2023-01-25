@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "inazuma",
+		"player1": "hu-tao",
+		"player2": "aether",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Madness (Tricky)",
+						"Rozebud
+Vocal Cover by Gamenwatch412"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "keqing",
+		"bpm": 212,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Madness"
+	}
+}

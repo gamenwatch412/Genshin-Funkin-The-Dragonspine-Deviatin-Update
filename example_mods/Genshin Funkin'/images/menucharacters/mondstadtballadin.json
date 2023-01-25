@@ -1,0 +1,10 @@
+{
+	"idle_anim": "logo bumpin",
+	"image": "mondstadtballadinlogobumpin",
+	"position": [
+		279,
+		112
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

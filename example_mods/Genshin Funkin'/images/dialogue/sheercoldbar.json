@@ -1,0 +1,25 @@
+{
+	"position": [
+		-310,
+		170
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": false,
+	"scale": 1.85,
+	"image": "sheercoldbar",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "still",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "still",
+			"idle_name": "still"
+		}
+	]
+}

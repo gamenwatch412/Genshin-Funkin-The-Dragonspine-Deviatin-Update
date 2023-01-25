@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kaeya idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kaeya NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				177
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kaeya NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				149
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "kaeya HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				48
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "kaeya hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-86,
+				12
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "kaeya idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				31
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "kaeya dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-55,
+				26
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "kaeya Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				82
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "kaeya Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-75,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kaeya NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-101,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kaeya NOTE LEFT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kaeya",
+	"position": [
+		40,
+		360
+	],
+	"healthicon": "kaeya",
+	"flip_x": true,
+	"healthbar_colors": [
+		33,
+		88,
+		116
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "dragonspine",
+		"player1": "bf-christmas",
+		"player2": "hu-tao-opponent",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Moonlike Smile",
+						"Gamenwatch412"
+					]
+				]
+			],
+			[
+				7714.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				8357.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				9428.57142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				10071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				10285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				92571.4285714285,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				93428.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				94124.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				94285.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				95142.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				95785.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 280,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Moonlike Smile"
+	}
+}

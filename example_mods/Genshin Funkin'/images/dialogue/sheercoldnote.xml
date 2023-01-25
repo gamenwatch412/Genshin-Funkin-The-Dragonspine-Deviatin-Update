@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sheercoldnote.png">
+<SubTexture name="sheercoldnote still0000" x="0" y="0" width="159" height="161" frameX="-1" frameY="0" frameWidth="167" frameHeight="163" />
+</TextureAtlas>

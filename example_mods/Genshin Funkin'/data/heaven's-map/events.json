@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "mondstadt",
+		"player1": "hu-tao",
+		"player2": "kaeya",
+		"player3": null,
+		"events": [
+			[
+				641.025641025641,
+				[
+					[
+						"Intro",
+						"Heaven's Map",
+						"多多poi and 宴宁ccccc"
+					]
+				]
+			],
+			[
+				198076.923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				198333.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				199102.564102564,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				199358.974358975,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				200128.205128205,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				200384.615384616,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				201025.641025641,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			],
+			[
+				201282.051282052,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.07",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "venti",
+		"bpm": 117,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Heaven's Map"
+	}
+}

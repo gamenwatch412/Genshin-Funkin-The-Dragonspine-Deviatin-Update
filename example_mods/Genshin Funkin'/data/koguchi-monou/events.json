@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "liyue",
+		"player1": "hu-tao",
+		"player2": "xingqiu",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"胡口桃生 (Hu Tao) (English Version)",
+						"
+						PeachyFranny feat. Raayo"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chongyun",
+		"bpm": 108,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Koguchi Monou"
+	}
+}

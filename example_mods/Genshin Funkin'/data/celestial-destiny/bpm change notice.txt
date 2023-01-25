@@ -1,0 +1,3 @@
+yo so I changed the bpm of this to be more precise with the rhythm of the song, but by doing so corrupts the chart.
+(And I'm too lazy to rechart this stuff lol)
+If you wanna view the chart unbroken, change the bpm in the chart editor to this number: 90

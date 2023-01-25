@@ -1,0 +1,82 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "BF and GF find themselves atop the snowy peaks of Dragonspine.",
+			"boxState": "normal",
+			"portrait": "blank",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "As they traverse the heavy cold terrain,\\nthey stumble across a strange figure.",
+			"boxState": "normal",
+			"portrait": "blank",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "Beep beep bop bop",
+			"boxState": "boyfriend",
+			"portrait": "bf",
+			"speed": 0.035
+		},
+		{
+			"expression": "neutral",
+			"text": "Huh? Who might you be?",
+			"boxState": "question",
+			"portrait": "susbedo",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "We could ask you the same thing! I'm GF and this is my sweetheart, BF.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.035
+		},
+		{
+			"expression": "neutral",
+			"text": "Ah, pleased to make your acquaintances.",
+			"boxState": "question",
+			"portrait": "susbedo",
+			"speed": 0.035
+		},
+		{
+			"expression": "smile",
+			"text": "I am Albedo. Chief Alchemist of the Knights of Favonius. I just happen to be painting a lovely sketch.",
+			"boxState": "albedo",
+			"portrait": "susbedo",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "Boop baa bep?",
+			"boxState": "boyfriend",
+			"sound": "",
+			"portrait": "bf",
+			"speed": 0.035
+		},
+		{
+			"expression": "neutral",
+			"text": "Can I sing? Well,  I haven't in a few years. So, I'm a little rusty with my voice. You want to do a duet?",
+			"boxState": "albedo",
+			"portrait": "susbedo",
+			"speed": 0.035
+		},
+		{
+			"expression": "pissed",
+			"text": "Fleep floop!",
+			"boxState": "boyfriend",
+			"portrait": "bf",
+			"speed": 0.035
+		},
+		{
+			"expression": "smile",
+			"text": "Okay then! I'll show you what I've got!",
+			"boxState": "albedo",
+			"portrait": "susbedo",
+			"speed": 0.035
+		}
+	]
+}

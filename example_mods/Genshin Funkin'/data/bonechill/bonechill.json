@@ -1,0 +1,12190 @@
+{
+	"song": {
+		"player1": "bfChristmas-finalPhase",
+		"gfVersion": "gfChristmas-finalPhase",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						8780.48780487805,
+						0,
+						804.878048780488
+					],
+					[
+						8780.48780487805,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						9073.17073170732,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						8780.48780487805,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						9073.17073170732,
+						2,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						9658.53658536585,
+						3,
+						804.878048780488
+					],
+					[
+						9658.53658536585,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						9951.21951219512,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						9658.53658536585,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						9951.21951219512,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						10243.9024390244,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						9365.85365853659,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						10536.5853658537,
+						2,
+						804.878048780488
+					],
+					[
+						11414.6341463415,
+						1,
+						804.878048780488
+					],
+					[
+						10829.2682926829,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						11414.6341463415,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						10536.5853658537,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						10536.5853658537,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						10829.2682926829,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						11414.6341463415,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						11121.9512195122,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						11707.3170731707,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						11707.3170731707,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						12000,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14048.7804878049,
+						3,
+						804.878048780488
+					],
+					[
+						14926.8292682927,
+						1,
+						804.878048780488
+					],
+					[
+						14048.7804878049,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						14341.4634146341,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						14926.8292682927,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						14048.7804878049,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						14195.1219512195,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						14926.8292682927,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						15073.1707317073,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						14634.1463414634,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						15804.8780487805,
+						0,
+						1682.92682926829
+					],
+					[
+						15219.5121951219,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						15804.8780487805,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						16097.5609756098,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						15804.8780487805,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						15951.2195121951,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						15219.5121951219,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						15512.1951219512,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						16390.243902439,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						16682.9268292683,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						17560.9756097561,
+						2,
+						1682.92682926829
+					],
+					[
+						17560.9756097561,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						17560.9756097561,
+						3,
+						1024.39024390244,
+						"Seelie Note"
+					],
+					[
+						17707.3170731707,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						17853.6585365854,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18000,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18146.3414634146,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18292.6829268293,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18439.0243902439,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18512.1951219512,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18585.3658536585,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18658.5365853659,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						18731.7073170732,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18878.0487804878,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18951.2195121951,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19024.3902439024,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19170.7317073171,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19243.9024390244,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18804.8780487805,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19097.5609756098,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18731.7073170732,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						18878.0487804878,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19024.3902439024,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19170.7317073171,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19317.0731707317,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						19609.756097561,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19756.0975609756,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20487.8048780488,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						19902.4390243902,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						20048.7804878049,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						20195.1219512195,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						20634.1463414634,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						20926.8292682927,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						21073.1707317073,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						21365.8536585366,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						21512.1951219512,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						21658.5365853659,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						21804.8780487805,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						21951.2195121951,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						23121.9512195122,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						22682.9268292683,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						22390.243902439,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						22243.9024390244,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						22829.2682926829,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						23268.2926829268,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						23414.6341463415,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						23560.9756097561,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						23707.3170731707,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						24000,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						24146.3414634146,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						24439.0243902439,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24585.3658536585,
+						1,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						24878.0487804878,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						25170.7317073171,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						25024.3902439024,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						25317.0731707317,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						25463.4146341463,
+						1,
+						182.926829268293,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						26341.4634146341,
+						2,
+						182.926829268293
+					],
+					[
+						26634.1463414634,
+						1,
+						0
+					],
+					[
+						26780.487804878,
+						3,
+						0
+					],
+					[
+						25756.0975609756,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						25902.4390243903,
+						6,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						26195.1219512195,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						26341.4634146342,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						26780.4878048781,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27512.1951219512,
+						1,
+						0
+					],
+					[
+						26926.8292682927,
+						2,
+						0
+					],
+					[
+						27073.1707317073,
+						0,
+						0
+					],
+					[
+						27219.512195122,
+						2,
+						182.926829268293
+					],
+					[
+						27658.5365853659,
+						3,
+						182.926829268293
+					],
+					[
+						27951.2195121951,
+						1,
+						0
+					],
+					[
+						27219.512195122,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						27658.5365853659,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						27073.1707317073,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						27512.1951219512,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						27951.2195121951,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						28097.5609756098,
+						0,
+						182.926829268293
+					],
+					[
+						28390.243902439,
+						2,
+						0
+					],
+					[
+						28536.5853658537,
+						1,
+						0
+					],
+					[
+						28682.9268292683,
+						0,
+						0
+					],
+					[
+						28829.2682926829,
+						3,
+						0
+					],
+					[
+						28975.6097560976,
+						0,
+						182.926829268293
+					],
+					[
+						28097.5609756098,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						28975.6097560976,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						28536.5853658537,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						28829.2682926829,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30146.3414634146,
+						2,
+						0
+					],
+					[
+						29707.3170731707,
+						2,
+						0
+					],
+					[
+						29414.6341463415,
+						1,
+						182.926829268293
+					],
+					[
+						29268.2926829268,
+						2,
+						0
+					],
+					[
+						29853.6585365854,
+						3,
+						182.926829268293
+					],
+					[
+						30292.6829268293,
+						1,
+						0
+					],
+					[
+						29853.6585365854,
+						2,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						29414.6341463415,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						30365.8536585366,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30439.0243902439,
+						3,
+						0
+					],
+					[
+						30585.3658536585,
+						0,
+						0
+					],
+					[
+						30731.7073170732,
+						3,
+						182.926829268293
+					],
+					[
+						31024.3902439024,
+						1,
+						0
+					],
+					[
+						31170.7317073171,
+						2,
+						182.926829268293
+					],
+					[
+						31463.4146341463,
+						0,
+						0
+					],
+					[
+						30731.7073170732,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						31097.5609756098,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31609.756097561,
+						1,
+						182.926829268293
+					],
+					[
+						31902.4390243902,
+						2,
+						0
+					],
+					[
+						32195.1219512195,
+						1,
+						0
+					],
+					[
+						32048.7804878049,
+						3,
+						0
+					],
+					[
+						32341.4634146342,
+						0,
+						0
+					],
+					[
+						32487.8048780488,
+						1,
+						182.926829268293
+					],
+					[
+						31609.756097561,
+						0,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						32487.8048780488,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						31975.6097560976,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						33365.8536585366,
+						2,
+						182.926829268293
+					],
+					[
+						33658.5365853659,
+						1,
+						0
+					],
+					[
+						33804.8780487805,
+						3,
+						0
+					],
+					[
+						33365.8536585366,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						33658.5365853659,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						33804.8780487805,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						32780.4878048781,
+						7,
+						0
+					],
+					[
+						32926.8292682927,
+						6,
+						182.926829268293
+					],
+					[
+						33219.512195122,
+						7,
+						0
+					],
+					[
+						32926.8292682927,
+						4,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34536.5853658537,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						33951.2195121951,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						34097.5609756098,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						34243.9024390244,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						34682.9268292683,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						34975.6097560976,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						35121.9512195122,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						35414.6341463415,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						35560.9756097561,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						35707.3170731707,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						35853.6585365854,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						36000,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						35853.6585365854,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						35926.8292682927,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						35853.6585365854,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						35926.8292682927,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						36000,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						36073.1707317073,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37170.7317073171,
+						2,
+						0
+					],
+					[
+						36878.0487804878,
+						3,
+						182.926829268293
+					],
+					[
+						37317.0731707317,
+						1,
+						0
+					],
+					[
+						36292.6829268293,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						36439.0243902439,
+						5,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						36731.7073170732,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						36878.0487804878,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						36878.0487804878,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37463.4146341463,
+						3,
+						0
+					],
+					[
+						37609.756097561,
+						0,
+						0
+					],
+					[
+						37756.0975609756,
+						3,
+						182.926829268293
+					],
+					[
+						38048.7804878049,
+						1,
+						0
+					],
+					[
+						38195.1219512195,
+						2,
+						182.926829268293
+					],
+					[
+						38487.8048780488,
+						0,
+						0
+					],
+					[
+						37756.0975609756,
+						2,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						37536.5853658537,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						37682.9268292683,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						38268.2926829268,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						38414.6341463415,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						38634.1463414634,
+						1,
+						182.926829268293
+					],
+					[
+						38926.8292682927,
+						2,
+						0
+					],
+					[
+						39219.512195122,
+						1,
+						0
+					],
+					[
+						39073.1707317073,
+						3,
+						0
+					],
+					[
+						39365.8536585366,
+						0,
+						0
+					],
+					[
+						39512.1951219512,
+						1,
+						182.926829268293
+					],
+					[
+						38634.1463414634,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						39512.1951219512,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						39073.1707317073,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						39365.8536585366,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40390.243902439,
+						2,
+						182.926829268293
+					],
+					[
+						40682.9268292683,
+						1,
+						0
+					],
+					[
+						40829.2682926829,
+						3,
+						0
+					],
+					[
+						40390.243902439,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						40682.9268292683,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						40829.2682926829,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						39804.8780487805,
+						7,
+						0
+					],
+					[
+						39951.2195121951,
+						6,
+						182.926829268293
+					],
+					[
+						40243.9024390244,
+						7,
+						0
+					],
+					[
+						39951.2195121951,
+						4,
+						73.1707317073171,
+						"Seelie Note"
+					],
+					[
+						39878.0487804878,
+						5,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						41560.9756097561,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						40975.6097560976,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						41121.9512195122,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						41268.2926829268,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						41707.3170731707,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						42000,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						42146.3414634146,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						42439.0243902439,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						42585.3658536585,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						42731.7073170732,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						42878.0487804878,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						43024.3902439024,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						42585.3658536585,
+						6,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						44195.1219512195,
+						2,
+						0
+					],
+					[
+						43902.4390243902,
+						3,
+						182.926829268293
+					],
+					[
+						44341.4634146341,
+						1,
+						0
+					],
+					[
+						43317.0731707317,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						43463.4146341463,
+						5,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						43756.0975609756,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						43902.4390243902,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						44048.7804878049,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						44487.8048780488,
+						3,
+						0
+					],
+					[
+						44634.1463414634,
+						0,
+						0
+					],
+					[
+						44780.4878048781,
+						3,
+						182.926829268293
+					],
+					[
+						45073.1707317073,
+						1,
+						0
+					],
+					[
+						45219.512195122,
+						2,
+						182.926829268293
+					],
+					[
+						45512.1951219512,
+						0,
+						0
+					],
+					[
+						44780.487804878,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						44634.1463414634,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						45219.5121951219,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						45658.5365853659,
+						1,
+						182.926829268293
+					],
+					[
+						45951.2195121951,
+						2,
+						0
+					],
+					[
+						46243.9024390244,
+						1,
+						0
+					],
+					[
+						46097.5609756098,
+						3,
+						0
+					],
+					[
+						46390.243902439,
+						0,
+						0
+					],
+					[
+						46536.5853658537,
+						1,
+						182.926829268293
+					],
+					[
+						45658.5365853658,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						46536.5853658536,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						45658.5365853658,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						46390.243902439,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						47414.6341463415,
+						2,
+						182.926829268293
+					],
+					[
+						47707.3170731707,
+						1,
+						0
+					],
+					[
+						47853.6585365854,
+						3,
+						0
+					],
+					[
+						47414.6341463415,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						47707.3170731707,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						47853.6585365854,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						46829.2682926829,
+						7,
+						0
+					],
+					[
+						46975.6097560976,
+						6,
+						182.926829268293
+					],
+					[
+						47268.2926829268,
+						7,
+						0
+					],
+					[
+						46975.6097560975,
+						5,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						46975.6097560975,
+						4,
+						182.926829268293,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						48585.3658536585,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						48000,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						48146.3414634146,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						48292.6829268293,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						48731.7073170732,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						49024.3902439024,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						49170.7317073171,
+						0,
+						182.926829268293
+					],
+					[
+						49463.4146341463,
+						2,
+						0
+					],
+					[
+						49609.756097561,
+						1,
+						0
+					],
+					[
+						49756.0975609756,
+						0,
+						0
+					],
+					[
+						49902.4390243902,
+						3,
+						0
+					],
+					[
+						50048.7804878049,
+						0,
+						182.926829268293
+					],
+					[
+						49170.731707317,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						50048.7804878049,
+						2,
+						109.756097560976,
+						"Seelie Note"
+					],
+					[
+						49170.731707317,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						49829.2682926829,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51219.5121951219,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						50926.8292682927,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						51365.8536585366,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						50341.4634146341,
+						6,
+						0
+					],
+					[
+						50487.8048780488,
+						5,
+						182.926829268293
+					],
+					[
+						50780.487804878,
+						6,
+						0
+					],
+					[
+						50487.8048780488,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						50487.8048780488,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51512.1951219512,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						51658.5365853659,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						51804.8780487805,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						52097.5609756098,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						52243.9024390244,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						52536.5853658537,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52682.9268292683,
+						1,
+						182.926829268293
+					],
+					[
+						52975.6097560976,
+						2,
+						0
+					],
+					[
+						53268.2926829268,
+						1,
+						0
+					],
+					[
+						53121.9512195122,
+						3,
+						0
+					],
+					[
+						53414.6341463415,
+						0,
+						0
+					],
+					[
+						53560.9756097561,
+						1,
+						182.926829268293
+					],
+					[
+						52682.9268292683,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						53560.9756097561,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						52975.6097560975,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						53195.1219512195,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						54439.0243902439,
+						2,
+						182.926829268293
+					],
+					[
+						54731.7073170732,
+						1,
+						0
+					],
+					[
+						54878.0487804878,
+						3,
+						0
+					],
+					[
+						54439.0243902439,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						54731.7073170732,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						54878.0487804878,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						53853.6585365854,
+						7,
+						0
+					],
+					[
+						54000,
+						6,
+						182.926829268293
+					],
+					[
+						54292.6829268293,
+						7,
+						0
+					],
+					[
+						54000,
+						4,
+						109.756097560976,
+						"Seelie Note"
+					],
+					[
+						54000,
+						5,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55609.756097561,
+						1,
+						0
+					],
+					[
+						55317.0731707317,
+						2,
+						182.926829268293
+					],
+					[
+						55756.0975609756,
+						3,
+						182.926829268293
+					],
+					[
+						56048.7804878049,
+						1,
+						0
+					],
+					[
+						55024.3902439024,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						55170.731707317,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						55317.0731707317,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						55756.0975609756,
+						0,
+						73.1707317073171,
+						"Seelie Note"
+					],
+					[
+						55756.0975609756,
+						2,
+						73.1707317073171,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						56195.1219512195,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						56487.8048780488,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						56634.1463414634,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						56780.4878048781,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						56926.8292682927,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						57073.1707317073,
+						4,
+						182.926829268293
+					],
+					[
+						57073.1707317073,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						57219.5121951219,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58243.9024390244,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						57951.2195121951,
+						7,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						57365.8536585365,
+						2,
+						0
+					],
+					[
+						57512.1951219512,
+						1,
+						182.926829268293
+					],
+					[
+						57804.8780487804,
+						2,
+						0
+					],
+					[
+						58390.243902439,
+						1,
+						182.926829268293
+					],
+					[
+						57512.1951219512,
+						3,
+						73.1707317073171,
+						"Seelie Note"
+					],
+					[
+						57512.1951219512,
+						0,
+						73.1707317073171,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58829.2682926829,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						59121.9512195122,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						58682.9268292682,
+						4,
+						0
+					],
+					[
+						59268.2926829268,
+						6,
+						182.926829268293
+					],
+					[
+						59560.9756097561,
+						4,
+						0
+					],
+					[
+						58682.9268292682,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						59560.9756097561,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						58682.9268292682,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						59560.9756097561,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						59707.3170731707,
+						5,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						60000,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						60585.3658536585,
+						5,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						60146.3414634146,
+						3,
+						182.926829268293
+					],
+					[
+						60439.0243902439,
+						0,
+						0
+					],
+					[
+						60439.0243902439,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						60439.0243902439,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						61024.3902439024,
+						6,
+						182.926829268293
+					],
+					[
+						61317.0731707317,
+						7,
+						0
+					],
+					[
+						60878.0487804878,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						61317.0731707317,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						61317.0731707317,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						61463.4146341463,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						61756.0975609756,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						61902.4390243902,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						62048.7804878048,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						62195.1219512195,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						62341.4634146341,
+						1,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						62634.1463414634,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						62926.8292682926,
+						2,
+						182.926829268293,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						63219.5121951219,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						63365.8536585365,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						63512.1951219512,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						63658.5365853658,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						63804.8780487804,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						63951.2195121951,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						64097.5609756097,
+						1,
+						182.926829268293,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64390.243902439,
+						6,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						64682.9268292682,
+						4,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						64975.6097560975,
+						2,
+						0
+					],
+					[
+						65268.2926829268,
+						2,
+						0
+					],
+					[
+						65414.6341463414,
+						1,
+						0
+					],
+					[
+						65121.9512195121,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						65560.975609756,
+						0,
+						0
+					],
+					[
+						65707.3170731707,
+						2,
+						0
+					],
+					[
+						65853.6585365853,
+						1,
+						182.926829268293
+					],
+					[
+						66146.3414634146,
+						3,
+						182.926829268293
+					],
+					[
+						66439.0243902439,
+						2,
+						182.926829268293
+					],
+					[
+						66439.0243902439,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						66439.0243902439,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66731.7073170731,
+						0,
+						0
+					],
+					[
+						66878.0487804877,
+						1,
+						0
+					],
+					[
+						67024.3902439024,
+						0,
+						0
+					],
+					[
+						67170.731707317,
+						3,
+						0
+					],
+					[
+						67317.0731707317,
+						2,
+						0
+					],
+					[
+						67463.4146341463,
+						3,
+						0
+					],
+					[
+						67609.7560975609,
+						1,
+						182.926829268293
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						67902.4390243902,
+						6,
+						182.926829268293
+					],
+					[
+						68195.1219512195,
+						4,
+						182.926829268293
+					],
+					[
+						68780.487804878,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						68487.8048780487,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						68926.8292682926,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						68195.1219512195,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						68195.1219512195,
+						5,
+						182.926829268293,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						69219.5121951219,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						69365.8536585365,
+						3,
+						292.682926829268,
+						"Sheer Cold Note"
+					],
+					[
+						69804.8780487804,
+						1,
+						292.682926829268,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70243.9024390243,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						70390.243902439,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						70536.5853658536,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						70682.9268292682,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						70829.2682926829,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						70975.6097560975,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						71121.9512195121,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						71268.2926829268,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						70682.9268292682,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						70829.2682926829,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						70975.6097560975,
+						5,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71560.975609756,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						71707.3170731707,
+						6,
+						219.512195121951,
+						"Sheer Cold Note"
+					],
+					[
+						72292.6829268292,
+						2,
+						0
+					],
+					[
+						71999.9999999999,
+						3,
+						0
+					],
+					[
+						72439.0243902438,
+						3,
+						0
+					],
+					[
+						71414.6341463414,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						72731.7073170731,
+						2,
+						0
+					],
+					[
+						72878.0487804877,
+						3,
+						292.682926829268
+					],
+					[
+						73317.0731707317,
+						1,
+						292.682926829268
+					],
+					[
+						72878.0487804877,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						73317.0731707316,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						73756.0975609756,
+						0,
+						0
+					],
+					[
+						73902.4390243902,
+						1,
+						0
+					],
+					[
+						74048.7804878048,
+						2,
+						0
+					],
+					[
+						74195.1219512195,
+						3,
+						0
+					],
+					[
+						74341.4634146341,
+						2,
+						0
+					],
+					[
+						74487.8048780487,
+						1,
+						0
+					],
+					[
+						74634.1463414633,
+						0,
+						0
+					],
+					[
+						74780.487804878,
+						1,
+						0
+					],
+					[
+						73902.4390243902,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						74195.1219512194,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						74634.1463414633,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75073.1707317072,
+						7,
+						0
+					],
+					[
+						75219.5121951219,
+						6,
+						219.512195121951
+					],
+					[
+						74926.8292682926,
+						6,
+						0
+					],
+					[
+						75512.1951219512,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						75804.8780487804,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						75951.219512195,
+						3,
+						292.682926829268,
+						"Sheer Cold Note"
+					],
+					[
+						75073.1707317072,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						76390.2439024389,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						76682.9268292682,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						76829.2682926829,
+						2,
+						292.682926829268,
+						"Sheer Cold Note"
+					],
+					[
+						76682.9268292682,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						76756.0975609755,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						76829.2682926829,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						76902.4390243902,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						77268.2926829268,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						77560.975609756,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						77707.3170731706,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						77999.9999999999,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						78146.3414634146,
+						2,
+						292.682926829268,
+						"Sheer Cold Note"
+					],
+					[
+						77707.3170731706,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						77780.487804878,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						77853.6585365853,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						77926.8292682926,
+						4,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78585.3658536585,
+						5,
+						292.682926829268,
+						"Sheer Cold Note"
+					],
+					[
+						79024.3902439024,
+						0,
+						0
+					],
+					[
+						79317.0731707316,
+						0,
+						0
+					],
+					[
+						79463.4146341463,
+						3,
+						292.682926829268
+					],
+					[
+						79463.4146341463,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						79902.4390243902,
+						1,
+						0
+					],
+					[
+						80195.1219512195,
+						1,
+						0
+					],
+					[
+						80341.4634146341,
+						2,
+						292.682926829268
+					],
+					[
+						80341.4634146341,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						80780.487804878,
+						0,
+						0
+					],
+					[
+						81073.1707317072,
+						3,
+						0
+					],
+					[
+						81219.5121951219,
+						1,
+						0
+					],
+					[
+						81512.1951219511,
+						1,
+						0
+					],
+					[
+						81658.5365853658,
+						2,
+						292.682926829268
+					],
+					[
+						81658.5365853658,
+						3,
+						146.341463414634,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						82097.5609756097,
+						5,
+						292.682926829268
+					],
+					[
+						82536.5853658536,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						82829.2682926828,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						82975.6097560975,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						82097.5609756097,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						82097.5609756097,
+						6,
+						146.341463414634,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						83268.2926829267,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						83414.6341463414,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						83707.3170731706,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						83853.6585365853,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84146.3414634145,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						84292.6829268292,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84439.0243902438,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84585.3658536584,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84731.7073170731,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84878.0487804877,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85024.3902439024,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85170.731707317,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85317.0731707316,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84658.5365853658,
+						5,
+						146.341463414634,
+						"Seelie Note"
+					],
+					[
+						84512.1951219511,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84585.3658536584,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84585.3658536584,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85024.3902439024,
+						6,
+						146.341463414634,
+						"Seelie Note"
+					],
+					[
+						84951.219512195,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84878.0487804877,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						84951.219512195,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85463.4146341462,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85609.7560975609,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85756.0975609755,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						85902.4390243901,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						86048.7804878048,
+						1,
+						0
+					],
+					[
+						86341.4634146341,
+						1,
+						0
+					],
+					[
+						86487.8048780487,
+						2,
+						0
+					],
+					[
+						86195.1219512194,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						86780.487804878,
+						2,
+						0
+					],
+					[
+						86926.8292682926,
+						3,
+						0
+					],
+					[
+						87219.5121951219,
+						3,
+						0
+					],
+					[
+						87365.8536585365,
+						0,
+						0
+					],
+					[
+						87658.5365853658,
+						0,
+						0
+					],
+					[
+						87073.1707317072,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						86634.1463414633,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						87512.1951219511,
+						0,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87804.8780487804,
+						3,
+						0
+					],
+					[
+						87951.219512195,
+						2,
+						0
+					],
+					[
+						88097.5609756097,
+						1,
+						0
+					],
+					[
+						88243.9024390243,
+						2,
+						0
+					],
+					[
+						88390.2439024389,
+						1,
+						0
+					],
+					[
+						88536.5853658536,
+						0,
+						0
+					],
+					[
+						88682.9268292682,
+						1,
+						0
+					],
+					[
+						88829.2682926828,
+						2,
+						0
+					],
+					[
+						88243.9024390243,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						88829.2682926828,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						88975.6097560975,
+						5,
+						0
+					],
+					[
+						89121.9512195121,
+						6,
+						0
+					],
+					[
+						89268.2926829267,
+						7,
+						0
+					],
+					[
+						89414.6341463414,
+						6,
+						0
+					],
+					[
+						89560.975609756,
+						4,
+						0
+					],
+					[
+						89999.9999999999,
+						4,
+						0
+					],
+					[
+						89560.975609756,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						89560.975609756,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						89707.3170731706,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						89853.6585365853,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						89999.9999999999,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						90146.3414634145,
+						4,
+						0
+					],
+					[
+						90292.6829268292,
+						4,
+						0
+					],
+					[
+						90439.0243902438,
+						4,
+						0
+					],
+					[
+						90878.0487804877,
+						5,
+						0
+					],
+					[
+						91024.3902439023,
+						5,
+						0
+					],
+					[
+						91170.731707317,
+						5,
+						0
+					],
+					[
+						90878.0487804877,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						90146.3414634145,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						90292.6829268292,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						90365.8536585365,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						90439.0243902438,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						90585.3658536584,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						90731.7073170731,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						90878.0487804877,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91024.3902439023,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91170.731707317,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91243.9024390243,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						91317.0731707316,
+						5,
+						0
+					],
+					[
+						91756.0975609755,
+						6,
+						0
+					],
+					[
+						91902.4390243901,
+						6,
+						0
+					],
+					[
+						92048.7804878048,
+						6,
+						0
+					],
+					[
+						92195.1219512194,
+						6,
+						0
+					],
+					[
+						91756.0975609755,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						91317.0731707316,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91463.4146341462,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91609.7560975609,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91756.0975609755,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						91902.4390243901,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92048.7804878048,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92121.9512195121,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92195.1219512194,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92341.463414634,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92487.8048780487,
+						3,
+						182.926829268293
+					],
+					[
+						92780.4878048779,
+						0,
+						182.926829268293
+					],
+					[
+						93073.1707317072,
+						2,
+						0
+					],
+					[
+						93219.5121951218,
+						3,
+						0
+					],
+					[
+						93365.8536585365,
+						3,
+						0
+					],
+					[
+						93512.1951219511,
+						2,
+						0
+					],
+					[
+						92487.8048780487,
+						2,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						92780.4878048779,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						93219.5121951218,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92487.8048780487,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92634.1463414633,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92780.4878048779,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						92926.8292682926,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						93073.1707317072,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						93512.1951219511,
+						4,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93658.5365853657,
+						1,
+						0
+					],
+					[
+						93804.8780487804,
+						2,
+						0
+					],
+					[
+						93878.0487804877,
+						3,
+						0
+					],
+					[
+						93951.219512195,
+						2,
+						0
+					],
+					[
+						94097.5609756096,
+						1,
+						0
+					],
+					[
+						94243.9024390243,
+						0,
+						0
+					],
+					[
+						94390.2439024389,
+						1,
+						0
+					],
+					[
+						94536.5853658535,
+						2,
+						0
+					],
+					[
+						94390.2439024389,
+						1,
+						0
+					],
+					[
+						94682.9268292682,
+						2,
+						0
+					],
+					[
+						94756.0975609755,
+						1,
+						0
+					],
+					[
+						93878.0487804877,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						94609.7560975609,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						93658.5365853657,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						93804.8780487804,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						93951.219512195,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						94390.2439024389,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						94536.5853658535,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						94682.9268292682,
+						5,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94829.2682926828,
+						0,
+						0
+					],
+					[
+						94975.6097560974,
+						1,
+						0
+					],
+					[
+						95121.9512195121,
+						2,
+						0
+					],
+					[
+						95268.2926829267,
+						1,
+						0
+					],
+					[
+						95560.975609756,
+						2,
+						0
+					],
+					[
+						95634.1463414633,
+						1,
+						0
+					],
+					[
+						95414.6341463414,
+						3,
+						0
+					],
+					[
+						95707.3170731706,
+						0,
+						0
+					],
+					[
+						95853.6585365853,
+						1,
+						0
+					],
+					[
+						95560.975609756,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						94829.2682926828,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						95268.2926829267,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						95414.6341463414,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						95560.975609756,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						95707.3170731706,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96146.3414634145,
+						7,
+						0
+					],
+					[
+						96292.6829268291,
+						6,
+						0
+					],
+					[
+						96439.0243902438,
+						5,
+						0
+					],
+					[
+						95999.9999999999,
+						3,
+						182.926829268293
+					],
+					[
+						96292.6829268291,
+						0,
+						182.926829268293
+					],
+					[
+						95999.9999999999,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						96292.6829268291,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						96146.3414634145,
+						7,
+						0
+					],
+					[
+						96292.6829268291,
+						6,
+						0
+					],
+					[
+						96439.0243902438,
+						5,
+						0
+					],
+					[
+						96585.3658536584,
+						4,
+						0
+					],
+					[
+						97024.3902439023,
+						4,
+						0
+					],
+					[
+						95999.9999999999,
+						6,
+						0
+					],
+					[
+						96585.3658536584,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						96585.3658536584,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						96731.7073170731,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						96878.0487804877,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97024.3902439023,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97170.731707317,
+						4,
+						0
+					],
+					[
+						97317.0731707316,
+						4,
+						0
+					],
+					[
+						97463.4146341462,
+						4,
+						0
+					],
+					[
+						97902.4390243901,
+						5,
+						0
+					],
+					[
+						98048.7804878048,
+						5,
+						0
+					],
+					[
+						98195.1219512194,
+						5,
+						0
+					],
+					[
+						97902.4390243901,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						97170.731707317,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97317.0731707316,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97390.2439024389,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97463.4146341462,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97609.7560975609,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97756.0975609755,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						97902.4390243901,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98048.7804878048,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98195.1219512194,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98268.2926829267,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98341.463414634,
+						5,
+						0
+					],
+					[
+						98780.4878048779,
+						6,
+						0
+					],
+					[
+						98926.8292682926,
+						6,
+						0
+					],
+					[
+						99073.1707317072,
+						6,
+						0
+					],
+					[
+						99219.5121951218,
+						6,
+						0
+					],
+					[
+						98780.4878048779,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						98341.463414634,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98487.8048780487,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98634.1463414633,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98780.4878048779,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						98926.8292682926,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99073.1707317072,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99146.3414634145,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99219.5121951218,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99365.8536585365,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99512.1951219511,
+						3,
+						182.926829268293
+					],
+					[
+						99804.8780487804,
+						0,
+						182.926829268293
+					],
+					[
+						99512.1951219511,
+						3,
+						182.926829268293
+					],
+					[
+						99804.8780487804,
+						0,
+						182.926829268293
+					],
+					[
+						100097.56097561,
+						2,
+						0
+					],
+					[
+						100243.902439024,
+						3,
+						0
+					],
+					[
+						100390.243902439,
+						3,
+						0
+					],
+					[
+						100536.585365854,
+						2,
+						0
+					],
+					[
+						99512.1951219511,
+						1,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						99804.8780487804,
+						2,
+						182.926829268293,
+						"Seelie Note"
+					],
+					[
+						100097.56097561,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99512.1951219511,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99658.5365853657,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99804.8780487804,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						99951.219512195,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						100097.56097561,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						100536.585365854,
+						4,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100682.926829268,
+						1,
+						0
+					],
+					[
+						100829.268292683,
+						2,
+						0
+					],
+					[
+						100902.43902439,
+						3,
+						0
+					],
+					[
+						100975.609756097,
+						2,
+						0
+					],
+					[
+						101121.951219512,
+						1,
+						0
+					],
+					[
+						101268.292682927,
+						0,
+						0
+					],
+					[
+						101414.634146341,
+						1,
+						0
+					],
+					[
+						101560.975609756,
+						2,
+						0
+					],
+					[
+						101414.634146341,
+						1,
+						0
+					],
+					[
+						101707.317073171,
+						2,
+						0
+					],
+					[
+						101780.487804878,
+						1,
+						0
+					],
+					[
+						100902.43902439,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						101707.317073171,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						100682.926829268,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						100829.268292683,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						100975.609756097,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						101414.634146341,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						101560.975609756,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						101707.317073171,
+						5,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101853.658536585,
+						0,
+						0
+					],
+					[
+						102000,
+						1,
+						0
+					],
+					[
+						102146.341463415,
+						2,
+						0
+					],
+					[
+						102292.682926829,
+						1,
+						0
+					],
+					[
+						102585.365853658,
+						2,
+						0
+					],
+					[
+						102658.536585366,
+						1,
+						0
+					],
+					[
+						102439.024390244,
+						3,
+						0
+					],
+					[
+						102731.707317073,
+						0,
+						0
+					],
+					[
+						102878.048780488,
+						1,
+						0
+					],
+					[
+						102146.341463415,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						102731.707317073,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						101853.658536585,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						102292.682926829,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						102439.024390244,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						102585.365853658,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						102731.707317073,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103170.731707317,
+						7,
+						0
+					],
+					[
+						103317.073170732,
+						6,
+						0
+					],
+					[
+						103463.414634146,
+						5,
+						0
+					],
+					[
+						103024.390243902,
+						3,
+						182.926829268293
+					],
+					[
+						103317.073170732,
+						0,
+						182.926829268293
+					],
+					[
+						103024.390243902,
+						3,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						103317.073170732,
+						0,
+						182.926829268293,
+						"Sheer Cold Note"
+					],
+					[
+						103170.731707317,
+						7,
+						0
+					],
+					[
+						103317.073170732,
+						6,
+						0
+					],
+					[
+						103463.414634146,
+						5,
+						0
+					],
+					[
+						103024.390243902,
+						6,
+						0
+					],
+					[
+						103609.756097561,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						103756.097560975,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						103902.43902439,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						104048.780487805,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						104195.121951219,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						104341.463414634,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						104487.804878049,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						104634.146341463,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						104780.487804878,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						104926.829268293,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						105073.170731707,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						105219.512195122,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105365.853658536,
+						4,
+						146.341463414634,
+						"Seelie Note"
+					],
+					[
+						105365.853658536,
+						5,
+						146.341463414634,
+						"Seelie Note"
+					],
+					[
+						105365.853658536,
+						6,
+						146.341463414634,
+						"Seelie Note"
+					],
+					[
+						105365.853658536,
+						7,
+						146.341463414634,
+						"Seelie Note"
+					],
+					[
+						105365.853658536,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						105512.195121951,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						105658.536585366,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						105804.87804878,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						105951.219512195,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106097.56097561,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106243.902439024,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106390.243902439,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107121.951219512,
+						2,
+						0
+					],
+					[
+						107268.292682927,
+						3,
+						0
+					],
+					[
+						107414.634146341,
+						3,
+						0
+					],
+					[
+						107560.975609756,
+						2,
+						0
+					],
+					[
+						107121.951219512,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106536.585365854,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106682.926829268,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106829.268292683,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						106975.609756097,
+						5,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107707.317073171,
+						1,
+						0
+					],
+					[
+						107853.658536585,
+						1,
+						0
+					],
+					[
+						108000,
+						2,
+						0
+					],
+					[
+						108146.341463414,
+						0,
+						0
+					],
+					[
+						108292.682926829,
+						0,
+						0
+					],
+					[
+						108439.024390244,
+						1,
+						0
+					],
+					[
+						108585.365853658,
+						2,
+						0
+					],
+					[
+						108731.707317073,
+						2,
+						0
+					],
+					[
+						108000,
+						3,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108878.048780488,
+						1,
+						0
+					],
+					[
+						109024.390243902,
+						3,
+						0
+					],
+					[
+						109170.731707317,
+						3,
+						0
+					],
+					[
+						109317.073170732,
+						1,
+						0
+					],
+					[
+						109463.414634146,
+						0,
+						0
+					],
+					[
+						109609.756097561,
+						0,
+						0
+					],
+					[
+						109756.097560975,
+						3,
+						0
+					],
+					[
+						109902.43902439,
+						2,
+						0
+					],
+					[
+						108878.048780488,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110048.780487805,
+						6,
+						0
+					],
+					[
+						110195.121951219,
+						7,
+						0
+					],
+					[
+						110341.463414634,
+						6,
+						0
+					],
+					[
+						110487.804878049,
+						5,
+						0
+					],
+					[
+						110195.121951219,
+						7,
+						0
+					],
+					[
+						110341.463414634,
+						6,
+						0
+					],
+					[
+						110487.804878049,
+						5,
+						0
+					],
+					[
+						110195.121951219,
+						7,
+						0
+					],
+					[
+						110341.463414634,
+						6,
+						0
+					],
+					[
+						110487.804878049,
+						5,
+						0
+					],
+					[
+						110048.780487805,
+						6,
+						0
+					],
+					[
+						110634.146341463,
+						6,
+						0
+					],
+					[
+						110780.487804878,
+						7,
+						0
+					],
+					[
+						110926.829268293,
+						7,
+						0
+					],
+					[
+						111073.170731707,
+						6,
+						0
+					],
+					[
+						110634.146341463,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						110195.121951219,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						110634.146341463,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						110780.487804878,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						110926.829268293,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						111073.170731707,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						111219.512195122,
+						1,
+						0
+					],
+					[
+						111365.853658536,
+						1,
+						0
+					],
+					[
+						111512.195121951,
+						2,
+						0
+					],
+					[
+						111658.536585366,
+						0,
+						0
+					],
+					[
+						111804.87804878,
+						0,
+						0
+					],
+					[
+						111951.219512195,
+						1,
+						0
+					],
+					[
+						112097.56097561,
+						2,
+						0
+					],
+					[
+						112243.902439024,
+						2,
+						0
+					],
+					[
+						111512.195121951,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						111219.512195122,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						111365.853658536,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						111512.195121951,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						111658.536585366,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						111804.87804878,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						111951.219512195,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112097.56097561,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112243.902439024,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112390.243902439,
+						1,
+						0
+					],
+					[
+						112390.243902439,
+						1,
+						0
+					],
+					[
+						112525.786071114,
+						3,
+						0
+					],
+					[
+						112661.328239788,
+						3,
+						0
+					],
+					[
+						112842.051131355,
+						1,
+						0
+					],
+					[
+						113113.135468704,
+						0,
+						0
+					],
+					[
+						113248.677637379,
+						2,
+						0
+					],
+					[
+						113429.400528945,
+						3,
+						0
+					],
+					[
+						113564.94269762,
+						3,
+						0
+					],
+					[
+						113700.484866294,
+						2,
+						0
+					],
+					[
+						112390.243902439,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112977.593300029,
+						0,
+						0
+					],
+					[
+						112842.051131355,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113700.484866294,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112842.051131355,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						112390.243902439,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112525.786071114,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112661.328239788,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112842.051131355,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						112977.593300029,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113113.135468704,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113248.677637379,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113429.400528945,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113564.94269762,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113700.484866294,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						113836.027034969,
+						2,
+						0
+					],
+					[
+						113971.569203644,
+						3,
+						0
+					],
+					[
+						114152.29209521,
+						2,
+						0
+					],
+					[
+						114333.014986776,
+						1,
+						0
+					],
+					[
+						114513.737878342,
+						2,
+						0
+					],
+					[
+						114694.460769909,
+						1,
+						0
+					],
+					[
+						114875.183661475,
+						0,
+						0
+					],
+					[
+						115055.906553041,
+						3,
+						0
+					],
+					[
+						115236.629444608,
+						2,
+						0
+					],
+					[
+						114152.29209521,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						115236.629444608,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						114152.29209521,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						113836.027034969,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						113971.569203644,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						114152.29209521,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						114333.014986776,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						114513.737878342,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						114694.460769909,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						114875.183661475,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						115055.906553041,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						115236.629444608,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						115417.352336174,
+						1,
+						0
+					],
+					[
+						115598.07522774,
+						2,
+						0
+					],
+					[
+						115778.798119306,
+						3,
+						0
+					],
+					[
+						115959.521010873,
+						1,
+						0
+					],
+					[
+						116320.966794005,
+						2,
+						0
+					],
+					[
+						116140.243902439,
+						0,
+						0
+					],
+					[
+						116501.689685571,
+						3,
+						0
+					],
+					[
+						116682.412577138,
+						2,
+						0
+					],
+					[
+						116320.966794005,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						115417.352336174,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						115598.07522774,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						115778.798119306,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						115959.521010873,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						116140.243902439,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						116320.966794005,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						116501.689685571,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						116682.412577138,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116863.135468704,
+						0,
+						0
+					],
+					[
+						117043.85836027,
+						2,
+						0
+					],
+					[
+						117224.581251836,
+						1,
+						0
+					],
+					[
+						117405.304143403,
+						2,
+						0
+					],
+					[
+						117586.027034969,
+						0,
+						0
+					],
+					[
+						117766.749926535,
+						3,
+						0
+					],
+					[
+						117947.472818102,
+						0,
+						0
+					],
+					[
+						118128.195709668,
+						1,
+						0
+					],
+					[
+						116863.135468704,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117586.027034969,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						116863.135468704,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117043.85836027,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117224.581251836,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117405.304143403,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117586.027034969,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117766.749926535,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						117947.472818102,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						118128.195709668,
+						5,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118308.918601234,
+						2,
+						0
+					],
+					[
+						118308.918601234,
+						3,
+						512.19512195122,
+						"Seelie Note"
+					],
+					[
+						118308.918601234,
+						0,
+						512.19512195122,
+						"Seelie Note"
+					],
+					[
+						118308.918601234,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						118308.918601234,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						124272.774022921,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						124634.219806053,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						124973.07522774,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						125176.388480752,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						124973.07522774,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						124973.07522774,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						124973.07522774,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						124973.07522774,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						125899.280047017,
+						2,
+						0
+					],
+					[
+						125515.243902439,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						126260.72583015,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						126441.448721716,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						126802.894504849,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						126441.448721716,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						126441.448721716,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						126441.448721716,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						126441.448721716,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": true,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127164.340287981,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						127525.786071114,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						127706.50896268,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						128045.364384367,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						127887.231854246,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						127887.231854246,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						127887.231854246,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						127887.231854246,
+						6,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128429.400528945,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						128790.846312077,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						128971.569203644,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						129333.014986776,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						129694.460769909,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						129333.014986776,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						129333.014986776,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						129333.014986776,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						129333.014986776,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						130055.906553041,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						130236.629444608,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						130598.07522774,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						130959.521010873,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						130778.798119306,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						130778.798119306,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						130778.798119306,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						130778.798119306,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						131320.966794005,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						131501.689685571,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						132224.581251836,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						132224.581251836,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						132224.581251836,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						132224.581251836,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						132360.123420511,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						132360.123420511,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						132360.123420511,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						132360.123420511,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132947.472818102,
+						2,
+						0
+					],
+					[
+						133851.087275933,
+						0,
+						0
+					],
+					[
+						133647.774022921,
+						1,
+						0
+					],
+					[
+						133308.918601234,
+						3,
+						0
+					],
+					[
+						133647.774022921,
+						2,
+						0,
+						"Seelie Note"
+					],
+					[
+						133647.774022921,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134935.42462533,
+						2,
+						0
+					],
+					[
+						134573.978842198,
+						2,
+						0
+					],
+					[
+						135116.147516897,
+						3,
+						0
+					],
+					[
+						135477.593300029,
+						2,
+						0
+					],
+					[
+						134189.94269762,
+						2,
+						0
+					],
+					[
+						135116.147516897,
+						1,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						136381.207757861,
+						3,
+						0
+					],
+					[
+						136720.063179547,
+						2,
+						0
+					],
+					[
+						135839.039083162,
+						0,
+						0
+					],
+					[
+						136200.484866294,
+						0,
+						0
+					],
+					[
+						136561.930649427,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						136561.930649427,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						137104.099324126,
+						1,
+						0
+					],
+					[
+						137465.545107258,
+						2,
+						0
+					],
+					[
+						137646.267998824,
+						3,
+						0
+					],
+					[
+						138007.713781957,
+						2,
+						0
+					],
+					[
+						137104.099324126,
+						1,
+						0
+					],
+					[
+						137465.545107258,
+						2,
+						0
+					],
+					[
+						137646.267998824,
+						3,
+						0
+					],
+					[
+						138007.713781957,
+						2,
+						0
+					],
+					[
+						138369.15956509,
+						1,
+						0
+					],
+					[
+						138007.713781957,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						138007.713781957,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						138730.605348222,
+						0,
+						0
+					],
+					[
+						138911.328239788,
+						3,
+						0
+					],
+					[
+						139272.774022921,
+						1,
+						0
+					],
+					[
+						139634.219806053,
+						3,
+						0
+					],
+					[
+						139453.496914487,
+						2,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139995.665589186,
+						2,
+						0
+					],
+					[
+						140176.388480752,
+						0,
+						0
+					],
+					[
+						140176.388480752,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						140492.653540993,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						140854.099324126,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						141622.171613282,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						141983.617396415,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						142164.340287981,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						142345.063179547,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						142525.786071114,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						142706.50896268,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						142887.231854246,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						143067.954745812,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						143429.400528945,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						143610.123420511,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						143790.846312077,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						143971.569203644,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						144152.29209521,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145598.07522774,
+						3,
+						0
+					],
+					[
+						145055.906553041,
+						0,
+						0
+					],
+					[
+						145236.629444607,
+						0,
+						0
+					],
+					[
+						145417.352336174,
+						1,
+						0
+					],
+					[
+						144875.183661475,
+						1,
+						0
+					],
+					[
+						144513.737878342,
+						0,
+						0
+					],
+					[
+						144333.014986776,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145778.798119306,
+						2,
+						0
+					],
+					[
+						146320.966794005,
+						1,
+						0
+					],
+					[
+						146863.135468704,
+						2,
+						0
+					],
+					[
+						147043.85836027,
+						1,
+						0
+					],
+					[
+						146682.412577138,
+						3,
+						0
+					],
+					[
+						146501.689685571,
+						3,
+						0
+					],
+					[
+						145959.521010873,
+						3,
+						0
+					],
+					[
+						146320.966794005,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						145959.521010873,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						147224.581251836,
+						6,
+						0
+					],
+					[
+						147405.304143403,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						147586.027034969,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						147766.749926535,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						147947.472818101,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						148128.195709668,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						148308.918601234,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						148489.6414928,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						148851.087275933,
+						0,
+						0
+					],
+					[
+						149031.810167499,
+						0,
+						0
+					],
+					[
+						149212.533059065,
+						0,
+						0
+					],
+					[
+						149393.255950632,
+						0,
+						0
+					],
+					[
+						149573.978842198,
+						0,
+						0
+					],
+					[
+						149754.701733764,
+						1,
+						0
+					],
+					[
+						149935.42462533,
+						0,
+						0
+					],
+					[
+						148670.364384366,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						148851.087275933,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						149212.533059065,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150296.870408463,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						150116.147516897,
+						5,
+						0
+					],
+					[
+						150296.870408463,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150296.870408463,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150477.593300029,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150477.593300029,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150658.316191595,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150658.316191595,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150839.039083162,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150839.039083162,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151019.761974728,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151019.761974728,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151200.484866294,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151200.484866294,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151381.20775786,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151381.20775786,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150477.593300029,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						150839.039083162,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						151381.20775786,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						150477.593300029,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150658.316191595,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150839.039083162,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151019.761974728,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151200.484866294,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151381.20775786,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						150477.593300029,
+						5,
+						0
+					],
+					[
+						151381.20775786,
+						5,
+						0
+					],
+					[
+						151200.484866294,
+						6,
+						0
+					],
+					[
+						151200.484866294,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						151019.761974728,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						151019.761974728,
+						5,
+						0
+					],
+					[
+						150839.039083162,
+						5,
+						0
+					],
+					[
+						150658.316191595,
+						5,
+						0
+					],
+					[
+						150658.316191595,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						150296.870408463,
+						5,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						152646.267998824,
+						2,
+						0
+					],
+					[
+						152646.267998824,
+						2,
+						0
+					],
+					[
+						151561.930649427,
+						2,
+						0
+					],
+					[
+						151742.653540993,
+						1,
+						0
+					],
+					[
+						152284.822215692,
+						2,
+						0
+					],
+					[
+						152465.545107258,
+						1,
+						0
+					],
+					[
+						151561.930649427,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151561.930649427,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151742.653540993,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151742.653540993,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151923.376432559,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151923.376432559,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152104.099324125,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152104.099324125,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152284.822215692,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152284.822215692,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152465.545107258,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152465.545107258,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152646.267998824,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152646.267998824,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152826.990890391,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152826.990890391,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151742.653540993,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						152284.822215692,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						152465.545107258,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						152646.267998824,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						151561.930649427,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151742.653540993,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151923.376432559,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152104.099324125,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152284.822215692,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152465.545107258,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152646.267998824,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						152826.990890391,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						151561.930649427,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						151923.376432559,
+						3,
+						0,
+						"Seelie Note"
+					],
+					[
+						152104.099324125,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						152826.990890391,
+						0,
+						0,
+						"Seelie Note"
+					],
+					[
+						152826.990890391,
+						1,
+						0
+					],
+					[
+						152104.099324125,
+						1,
+						0
+					],
+					[
+						151923.376432559,
+						2,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						153007.713781957,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						153007.713781957,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						153188.436673523,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						153549.882456656,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						153888.737878342,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						154092.051131354,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						153007.713781957,
+						6,
+						0
+					],
+					[
+						153007.713781957,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						153866.147516897,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						153820.966794005,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						153843.557155451,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						153798.376432559,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						153007.713781957,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						154430.906553041,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						154814.942697619,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						154995.665589186,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						155357.111372318,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						155718.557155451,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						155289.340287981,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						155311.930649427,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						155334.521010872,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						155357.111372318,
+						4,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						156080.002938583,
+						2,
+						0
+					],
+					[
+						156983.617396415,
+						0,
+						0
+					],
+					[
+						156780.304143403,
+						1,
+						0
+					],
+					[
+						156441.448721716,
+						3,
+						0
+					],
+					[
+						156780.304143403,
+						2,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						158248.677637379,
+						3,
+						0
+					],
+					[
+						158610.123420511,
+						2,
+						0
+					],
+					[
+						157322.472818102,
+						2,
+						0
+					],
+					[
+						157706.50896268,
+						0,
+						0
+					],
+					[
+						157887.231854246,
+						3,
+						0
+					],
+					[
+						158248.677637378,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						158790.846312077,
+						4,
+						0
+					],
+					[
+						159152.29209521,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						159333.014986776,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						159694.460769909,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						160055.906553041,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						159694.460769909,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						159694.460769909,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						159694.460769909,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						159694.460769909,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						160598.07522774,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						160778.798119306,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						161140.243902439,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						161501.689685571,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						161140.243902439,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						161140.243902439,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						161140.243902439,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						161140.243902439,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						162043.85836027,
+						2,
+						0
+					],
+					[
+						162224.581251836,
+						0,
+						0
+					],
+					[
+						162586.027034969,
+						1,
+						0
+					],
+					[
+						162766.749926535,
+						3,
+						0
+					],
+					[
+						161693.70775786,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						162586.027034969,
+						2,
+						0,
+						"Seelie Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": true,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						163128.195709668,
+						1,
+						0
+					],
+					[
+						163308.918601234,
+						0,
+						0
+					],
+					[
+						163851.087275933,
+						3,
+						0
+					],
+					[
+						164212.533059065,
+						2,
+						0
+					],
+					[
+						164393.255950631,
+						1,
+						0
+					],
+					[
+						163670.364384366,
+						3,
+						0
+					],
+					[
+						164212.533059065,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						164393.255950631,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						163851.087275933,
+						2,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						164573.978842198,
+						4,
+						0
+					],
+					[
+						164754.701733764,
+						5,
+						0
+					],
+					[
+						164935.42462533,
+						6,
+						0
+					],
+					[
+						165116.147516896,
+						7,
+						0
+					],
+					[
+						165296.870408463,
+						6,
+						0
+					],
+					[
+						165477.593300029,
+						5,
+						0
+					],
+					[
+						165658.316191595,
+						4,
+						0
+					],
+					[
+						165839.039083162,
+						5,
+						0
+					],
+					[
+						164573.978842198,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						164754.701733764,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						164935.42462533,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						165116.147516896,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						165296.870408463,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						165477.593300029,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						165658.316191595,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						165839.039083162,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						166200.484866294,
+						3,
+						0
+					],
+					[
+						166381.20775786,
+						0,
+						0
+					],
+					[
+						166742.653540993,
+						2,
+						0
+					],
+					[
+						166200.484866294,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						166381.20775786,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						166742.653540993,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						166742.653540993,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						166742.653540993,
+						1,
+						0,
+						"Seelie Note"
+					],
+					[
+						166742.653540993,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						166742.653540993,
+						3,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						167646.267998824,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						167826.99089039,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168007.713781957,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168188.436673523,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168278.798119306,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168369.159565089,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168549.882456655,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168730.605348222,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						168369.159565089,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						168369.159565089,
+						6,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						168911.328239788,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169092.051131354,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169272.774022921,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169453.496914487,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169634.219806053,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169814.942697619,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169995.665589186,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						170086.027034969,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						170176.388480752,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						169814.942697619,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						169814.942697619,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						170357.111372318,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						170537.834263884,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						170718.557155451,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						170899.280047017,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171080.002938583,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171170.364384366,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171260.725830149,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171441.448721716,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171622.171613282,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171260.725830149,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						171260.725830149,
+						6,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						171802.894504848,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						171983.617396414,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						172164.340287981,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						172345.063179547,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						172525.786071113,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						172706.50896268,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						172887.231854246,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						173067.954745812,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						172706.50896268,
+						7,
+						0,
+						"Seelie Note"
+					],
+					[
+						172706.50896268,
+						4,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						173429.400528945,
+						0,
+						0
+					],
+					[
+						173610.123420511,
+						0,
+						0
+					],
+					[
+						173790.846312077,
+						3,
+						0
+					],
+					[
+						173971.569203643,
+						1,
+						0
+					],
+					[
+						174061.930649427,
+						3,
+						0
+					],
+					[
+						174152.29209521,
+						1,
+						0
+					],
+					[
+						174333.014986776,
+						0,
+						0
+					],
+					[
+						174513.737878342,
+						1,
+						0
+					],
+					[
+						173248.677637378,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						173474.581251836,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						173745.665589186,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						174061.930649427,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						174378.195709667,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						174694.460769908,
+						0,
+						0
+					],
+					[
+						174875.183661475,
+						2,
+						0
+					],
+					[
+						175055.906553041,
+						2,
+						0
+					],
+					[
+						175236.629444607,
+						3,
+						0
+					],
+					[
+						175417.352336174,
+						2,
+						0
+					],
+					[
+						175598.07522774,
+						1,
+						0
+					],
+					[
+						175778.798119306,
+						0,
+						0
+					],
+					[
+						175869.159565089,
+						1,
+						0
+					],
+					[
+						175959.521010872,
+						0,
+						0
+					],
+					[
+						174649.280047017,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						175010.725830149,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						175281.810167499,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						175643.255950631,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						176140.243902439,
+						0,
+						0
+					],
+					[
+						176320.966794005,
+						3,
+						0
+					],
+					[
+						176501.689685571,
+						3,
+						0
+					],
+					[
+						176682.412577137,
+						3,
+						0
+					],
+					[
+						176863.135468704,
+						2,
+						0
+					],
+					[
+						176953.496914487,
+						0,
+						0
+					],
+					[
+						177043.85836027,
+						2,
+						0
+					],
+					[
+						177224.581251836,
+						0,
+						0
+					],
+					[
+						177405.304143402,
+						0,
+						0
+					],
+					[
+						176095.063179547,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						176546.870408463,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						177360.123420511,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						177586.027034969,
+						0,
+						0
+					],
+					[
+						177766.749926535,
+						0,
+						0
+					],
+					[
+						177947.472818101,
+						3,
+						0
+					],
+					[
+						178128.195709667,
+						3,
+						0
+					],
+					[
+						178308.918601234,
+						3,
+						0
+					],
+					[
+						178489.6414928,
+						2,
+						0
+					],
+					[
+						178670.364384366,
+						0,
+						0
+					],
+					[
+						178851.087275933,
+						2,
+						0
+					],
+					[
+						177631.20775786,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						178083.014986776,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						178263.737878342,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						178670.364384366,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						179031.810167499,
+						7,
+						0
+					],
+					[
+						179212.533059065,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						179393.255950631,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						179573.978842198,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						179754.701733764,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						179845.063179547,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						179935.42462533,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						180116.147516896,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						180296.870408463,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						179935.42462533,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						179935.42462533,
+						5,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						180477.593300029,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						180658.316191595,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						180839.039083161,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181019.761974728,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181200.484866294,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181381.20775786,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181561.930649426,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181652.29209521,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181742.653540993,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						181381.20775786,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						181381.20775786,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						181923.376432559,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182104.099324125,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182284.822215691,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182465.545107258,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182646.267998824,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182736.629444607,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182826.99089039,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						183007.713781957,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						183188.436673523,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						182826.99089039,
+						4,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						183369.159565089,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						183549.882456655,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						183730.605348222,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						183911.328239788,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						184092.051131354,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						184272.77402292,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						184453.496914487,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						184634.219806053,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						184272.77402292,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						184995.665589186,
+						0,
+						0
+					],
+					[
+						185176.388480752,
+						0,
+						0
+					],
+					[
+						185357.111372318,
+						3,
+						0
+					],
+					[
+						185537.834263884,
+						1,
+						0
+					],
+					[
+						185628.195709668,
+						3,
+						0
+					],
+					[
+						185718.557155451,
+						1,
+						0
+					],
+					[
+						185899.280047017,
+						0,
+						0
+					],
+					[
+						186080.002938583,
+						1,
+						0
+					],
+					[
+						184995.665589185,
+						5,
+						1207.31707317073,
+						"Sheer Cold Note"
+					],
+					[
+						184814.942697619,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						185040.846312077,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						185402.29209521,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						185854.099324125,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						186260.725830149,
+						0,
+						0
+					],
+					[
+						186441.448721716,
+						2,
+						0
+					],
+					[
+						186622.171613282,
+						2,
+						0
+					],
+					[
+						186802.894504848,
+						3,
+						0
+					],
+					[
+						186983.617396415,
+						2,
+						0
+					],
+					[
+						187164.340287981,
+						1,
+						0
+					],
+					[
+						187345.063179547,
+						0,
+						0
+					],
+					[
+						187435.42462533,
+						1,
+						0
+					],
+					[
+						187525.786071113,
+						0,
+						0
+					],
+					[
+						186576.99089039,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						187299.882456655,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						187706.50896268,
+						0,
+						0
+					],
+					[
+						187887.231854246,
+						3,
+						0
+					],
+					[
+						188067.954745812,
+						3,
+						0
+					],
+					[
+						188248.677637378,
+						3,
+						0
+					],
+					[
+						188429.400528945,
+						2,
+						0
+					],
+					[
+						188519.761974728,
+						0,
+						0
+					],
+					[
+						188610.123420511,
+						2,
+						0
+					],
+					[
+						188790.846312077,
+						0,
+						0
+					],
+					[
+						188971.569203643,
+						0,
+						0
+					],
+					[
+						188113.135468703,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						188836.027034969,
+						2,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						189152.29209521,
+						0,
+						0
+					],
+					[
+						189333.014986776,
+						0,
+						0
+					],
+					[
+						189513.737878342,
+						3,
+						0
+					],
+					[
+						189694.460769908,
+						3,
+						0
+					],
+					[
+						189875.183661475,
+						3,
+						0
+					],
+					[
+						190055.906553041,
+						2,
+						0
+					],
+					[
+						190236.629444607,
+						0,
+						0
+					],
+					[
+						190417.352336174,
+						2,
+						0
+					],
+					[
+						189558.918601234,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						190281.810167499,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						190598.07522774,
+						7,
+						0
+					],
+					[
+						190778.798119306,
+						5,
+						1207.31707317073
+					],
+					[
+						190778.798119306,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						191004.701733764,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						191095.063179547,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						191049.882456655,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						191501.689685571,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						191682.412577137,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						190778.798119306,
+						6,
+						365.853658536585,
+						"Seelie Note"
+					],
+					[
+						190778.798119306,
+						4,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						192586.027034969,
+						3,
+						256.09756097561,
+						"Sheer Cold Note"
+					],
+					[
+						192947.472818101,
+						1,
+						256.09756097561,
+						"Sheer Cold Note"
+					],
+					[
+						193308.918601234,
+						0,
+						256.09756097561,
+						"Sheer Cold Note"
+					],
+					[
+						192043.85836027,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						192134.219806053,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						192224.581251836,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						192405.304143402,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						192586.027034969,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						192586.027034969,
+						5,
+						0,
+						"Seelie Note"
+					],
+					[
+						192586.027034969,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						192586.027034969,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						193670.364384366,
+						2,
+						0
+					],
+					[
+						193896.267998824,
+						0,
+						0
+					],
+					[
+						193986.629444607,
+						2,
+						0
+					],
+					[
+						194393.255950631,
+						3,
+						0
+					],
+					[
+						194573.978842197,
+						1,
+						0
+					],
+					[
+						193941.448721716,
+						1,
+						0
+					],
+					[
+						194573.978842197,
+						2,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						194935.42462533,
+						1,
+						0
+					],
+					[
+						195025.786071113,
+						2,
+						0
+					],
+					[
+						195116.147516896,
+						1,
+						0
+					],
+					[
+						195296.870408463,
+						3,
+						0
+					],
+					[
+						195477.593300029,
+						3,
+						256.09756097561
+					],
+					[
+						195839.039083161,
+						1,
+						256.09756097561
+					],
+					[
+						196200.484866294,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						197284.822215691,
+						1,
+						146.341463414634,
+						"Sheer Cold Note"
+					],
+					[
+						196381.20775786,
+						6,
+						0
+					],
+					[
+						196742.653540993,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						196833.014986776,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						196923.376432559,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						197646.267998824,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						197284.822215691,
+						6,
+						0,
+						"Seelie Note"
+					],
+					[
+						197284.822215691,
+						7,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						198730.605348221,
+						3,
+						146.341463414634,
+						"Sheer Cold Note"
+					],
+					[
+						197736.629444607,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						197826.99089039,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						198188.436673523,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						198278.798119306,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						198369.159565089,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						199092.051131354,
+						0,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						199634.219806053,
+						3,
+						0
+					],
+					[
+						199724.581251836,
+						2,
+						0
+					],
+					[
+						199814.942697619,
+						3,
+						0
+					],
+					[
+						200176.388480752,
+						0,
+						0
+					],
+					[
+						200357.111372318,
+						1,
+						0
+					],
+					[
+						199272.77402292,
+						6,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						200718.55715545,
+						1,
+						0
+					],
+					[
+						200808.918601234,
+						0,
+						0
+					],
+					[
+						200899.280047017,
+						2,
+						0
+					],
+					[
+						201260.725830149,
+						1,
+						0
+					],
+					[
+						201441.448721715,
+						3,
+						0
+					],
+					[
+						201802.894504848,
+						0,
+						0
+					],
+					[
+						201983.617396414,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						202164.34028798,
+						5,
+						0
+					],
+					[
+						202254.701733764,
+						4,
+						0
+					],
+					[
+						202345.063179547,
+						7,
+						0
+					],
+					[
+						202706.508962679,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						203067.954745812,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						203248.677637378,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						203067.954745812,
+						4,
+						0,
+						"Seelie Note"
+					],
+					[
+						203067.954745812,
+						6,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						204875.183661474,
+						4,
+						0
+					],
+					[
+						203610.123420511,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						203971.569203643,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						204333.014986776,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						204513.737878342,
+						1,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						205146.267998824,
+						3,
+						0
+					],
+					[
+						205236.629444607,
+						2,
+						0
+					],
+					[
+						205598.075227739,
+						3,
+						0
+					],
+					[
+						205778.798119306,
+						1,
+						0
+					],
+					[
+						206140.243902438,
+						2,
+						0
+					],
+					[
+						205598.075227739,
+						0,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						206411.328239788,
+						1,
+						0
+					],
+					[
+						206501.689685571,
+						0,
+						0
+					],
+					[
+						206863.135468703,
+						2,
+						0
+					],
+					[
+						207043.85836027,
+						1,
+						0
+					],
+					[
+						207405.304143402,
+						3,
+						0
+					],
+					[
+						207766.749926535,
+						2,
+						0
+					],
+					[
+						207676.388480752,
+						0,
+						0
+					],
+					[
+						207405.304143402,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						207676.388480752,
+						4,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						207766.749926535,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						207405.304143402,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						207540.846312077,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						206863.135468703,
+						3,
+						0,
+						"Seelie Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						208128.195709667,
+						5,
+						0
+					],
+					[
+						208308.918601233,
+						7,
+						0
+					],
+					[
+						208670.364384366,
+						6,
+						0
+					],
+					[
+						208941.448721715,
+						4,
+						0
+					],
+					[
+						209031.810167499,
+						5,
+						0
+					],
+					[
+						208128.195709667,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						208308.918601233,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						208670.364384366,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						208941.448721715,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209031.810167499,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						207902.292095209,
+						6,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						208444.460769908,
+						5,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209076.99089039,
+						7,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						209393.255950631,
+						3,
+						0
+					],
+					[
+						209573.978842197,
+						6,
+						1426.82926829268,
+						"Sheer Cold Note"
+					],
+					[
+						209573.978842197,
+						4,
+						1426.82926829268,
+						"Sheer Cold Note"
+					],
+					[
+						209573.978842197,
+						2,
+						1426.82926829268,
+						"Seelie Note"
+					],
+					[
+						209573.978842197,
+						0,
+						1426.82926829268
+					],
+					[
+						209393.255950631,
+						7,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209573.978842197,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209619.159565089,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209709.521010872,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209664.34028798,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209754.701733764,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209799.882456655,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209845.063179547,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209890.243902438,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209935.42462533,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209980.605348221,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210070.966794005,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210025.786071113,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210070.966794005,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210161.328239788,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210116.147516896,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210206.508962679,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210251.689685571,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210296.870408462,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210387.231854245,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210342.051131354,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210432.412577137,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210477.593300029,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210522.77402292,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210567.954745812,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210613.135468703,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210658.316191595,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209573.978842197,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209619.159565089,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209664.34028798,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209664.34028798,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209799.882456655,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209709.521010872,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209754.701733764,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209845.063179547,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209890.243902438,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209980.605348221,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						209935.42462533,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210025.786071113,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210070.966794005,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210116.147516896,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210161.328239788,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210206.508962679,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210251.689685571,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210296.870408462,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210342.051131354,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210387.231854245,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210432.412577137,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210477.593300029,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210522.77402292,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210567.954745812,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210613.135468703,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210658.316191595,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						210703.496914486,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210748.677637378,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210793.85836027,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210839.039083161,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210884.219806053,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210929.400528944,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210974.581251836,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211019.761974727,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211064.942697619,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211110.123420511,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210703.496914486,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210748.677637378,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210793.85836027,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210839.039083161,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210884.219806053,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210929.400528944,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						210974.581251836,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211064.942697619,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211019.761974727,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211110.123420511,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211110.123420511,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211110.123420511,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211155.304143402,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211155.304143402,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211155.304143402,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211155.304143402,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211200.484866294,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211200.484866294,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211200.484866294,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211200.484866294,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211245.665589185,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211245.665589185,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211245.665589185,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211245.665589185,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211290.846312077,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211290.846312077,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211290.846312077,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211290.846312077,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211336.027034968,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211336.027034968,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211336.027034968,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211336.027034968,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211381.20775786,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211381.20775786,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211381.20775786,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211381.20775786,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211426.388480751,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211426.388480751,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211426.388480751,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211426.388480751,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211471.569203643,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211471.569203643,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211471.569203643,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211516.749926535,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211471.569203643,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211516.749926535,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211516.749926535,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211516.749926535,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211561.930649426,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211561.930649426,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211561.930649426,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211561.930649426,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211607.111372318,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211607.111372318,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211607.111372318,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211607.111372318,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211652.292095209,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211652.292095209,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211652.292095209,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211652.292095209,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211697.472818101,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211697.472818101,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211697.472818101,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211697.472818101,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211742.653540992,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211742.653540992,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211742.653540992,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211787.834263884,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211742.653540992,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211787.834263884,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211787.834263884,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211787.834263884,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211833.014986776,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211833.014986776,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211833.014986776,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211833.014986776,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211878.195709667,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211878.195709667,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211878.195709667,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211878.195709667,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211923.376432559,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211923.376432559,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211923.376432559,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211923.376432559,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211968.55715545,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211968.55715545,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211968.55715545,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						211968.55715545,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212013.737878342,
+						3,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212013.737878342,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212013.737878342,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212058.918601233,
+						1,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212013.737878342,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212058.918601233,
+						0,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212058.918601233,
+						2,
+						0,
+						"Sheer Cold Note"
+					],
+					[
+						212058.918601233,
+						3,
+						0,
+						"Sheer Cold Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 205
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 205,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "susbedo final phase tinted",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "Bonechill",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "dragonspine-final-phase",
+		"bpm": 205,
+		"speed": 3.1
+	}
+}

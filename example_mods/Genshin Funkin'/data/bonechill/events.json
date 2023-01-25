@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "dragonspine-final-phase",
+		"player1": "bfChristmas-finalPhase",
+		"player2": "susbedo final phase tinted",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Bonechill",
+						"Gamenwatch412"
+					]
+				]
+			],
+			[
+				118331.50896268,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"susbedo final phase tinted"
+					]
+				]
+			],
+			[
+				119619.159565089,
+				[
+					[
+						"Fade out everything",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				119619.159565089,
+				[
+					[
+						"Camera Follow Pos",
+						"320",
+						"100"
+					]
+				]
+			],
+			[
+				123956.50896268,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124137.231854246,
+				[
+					[
+						"Fade in everything",
+						"0.2",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gfChristmas-finalPhase",
+		"bpm": 205,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bonechill"
+	}
+}

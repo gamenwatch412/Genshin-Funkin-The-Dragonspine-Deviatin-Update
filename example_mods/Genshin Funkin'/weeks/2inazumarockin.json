@@ -1,0 +1,49 @@
+{
+	"storyName": "inazuma rockin'",
+	"difficulties": "Easy, Normal, Alt",
+	"hideFreeplay": false,
+	"weekBackground": "inazuma",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Renai Circulation",
+			"aether",
+			[
+				251,
+				240,
+				171
+			]
+		],
+		[
+			"Saikai",
+			"aether",
+			[
+				251,
+				240,
+				171
+			]
+		],
+		[
+			"Vigilant Yaksha",
+			"aether",
+			[
+				251,
+				240,
+				171
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"inazumarockin",
+		""
+	],
+	"weekName": "Inazuma Rockin'"
+}

@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "susbedo",
+			"boxState": "susbedo",
+			"expression": "sad",
+			"text": "Curses. You put up one hell of a fight."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "boyfriend",
+			"expression": "pissed",
+			"text": "Beepo be beepo bapboop boop beepaa bapboop bopo skebap bop be beepop be."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "blank",
+			"boxState": "eula",
+			"expression": "talk",
+			"text": "Albedo, are you there? And another of you as well? Huh, well then vengeance will be mine!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "blank",
+			"boxState": "bennett",
+			"expression": "talk",
+			"text": "Teamwork is dreamwork! Let's light up your impostor!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "blank",
+			"boxState": "amber",
+			"expression": "talk",
+			"text": "Roger, outrider Amber won't let you down!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "blank",
+			"boxState": "aether",
+			"expression": "talk",
+			"text": "Windblade!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo",
+			"boxState": "albedo",
+			"expression": "smile",
+			"text": "Ah, arrived just in the nick of time."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo",
+			"boxState": "albedo",
+			"expression": "neutral",
+			"text": "We can take it from here, you two better get going before he does any more harm to you."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo",
+			"boxState": "albedo",
+			"expression": "smile",
+			"text": "I can't thank you enough for your help as well as your wonderful singing."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "boyfriend",
+			"expression": "talk",
+			"text": "Beepaa beepbop beep bappity bip skbep brep beep bappity!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh of course! Good luck, and it was great meeting you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo",
+			"boxState": "albedo",
+			"expression": "smile",
+			"text": "Likewise, until we meet again."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo",
+			"boxState": "albedo",
+			"expression": "neutral",
+			"text": "Now, other me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "susbedo",
+			"boxState": "susbedo",
+			"expression": "sad",
+			"text": "Grr..."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "albedo",
+			"boxState": "albedo",
+			"expression": "smile",
+			"text": "Witness our great undertaking!"
+		}
+	]
+}

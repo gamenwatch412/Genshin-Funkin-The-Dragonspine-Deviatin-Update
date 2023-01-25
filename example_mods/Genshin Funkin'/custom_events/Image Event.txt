@@ -1,0 +1,2 @@
+Value 1: Image name (in mods/images)
+Value 2: Duration (in seconds) in the second value

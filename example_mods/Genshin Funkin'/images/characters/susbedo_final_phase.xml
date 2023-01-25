@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="susbedo final phase.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="susbedo final phase down0000" x="0" y="0" width="710" height="699" frameX="-5" frameY="-15" frameWidth="723" frameHeight="718"/>
+	<SubTexture name="susbedo final phase down0001" x="0" y="0" width="710" height="699" frameX="-5" frameY="-15" frameWidth="723" frameHeight="718"/>
+	<SubTexture name="susbedo final phase down0002" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0003" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0004" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0005" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0006" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0007" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0008" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0009" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0010" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0011" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0012" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0013" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0014" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0015" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0016" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0017" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0018" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0019" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0020" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0021" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0022" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0023" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0024" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0025" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0026" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0027" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0028" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down0029" x="710" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0000" x="1433" y="0" width="710" height="699" frameX="-5" frameY="-15" frameWidth="723" frameHeight="718"/>
+	<SubTexture name="susbedo final phase down alt0001" x="1433" y="0" width="710" height="699" frameX="-5" frameY="-15" frameWidth="723" frameHeight="718"/>
+	<SubTexture name="susbedo final phase down alt0002" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0003" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0004" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0005" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0006" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0007" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0008" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0009" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0010" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0011" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0012" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0013" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0014" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0015" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0016" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0017" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0018" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0019" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0020" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0021" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0022" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0023" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0024" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0025" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0026" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0027" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0028" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase down alt0029" x="2143" y="0" width="723" height="718"/>
+	<SubTexture name="susbedo final phase idle0000" x="2866" y="0" width="591" height="671"/>
+	<SubTexture name="susbedo final phase idle0001" x="2866" y="0" width="591" height="671"/>
+	<SubTexture name="susbedo final phase idle0002" x="3457" y="0" width="585" height="671" frameX="-4" frameY="0" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0003" x="3457" y="0" width="585" height="671" frameX="-4" frameY="0" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0004" x="4042" y="0" width="581" height="671" frameX="-7" frameY="0" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0005" x="4042" y="0" width="581" height="671" frameX="-7" frameY="0" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0006" x="4623" y="0" width="577" height="668" frameX="-10" frameY="-3" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0007" x="4623" y="0" width="577" height="668" frameX="-10" frameY="-3" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0008" x="5200" y="0" width="575" height="664" frameX="-12" frameY="-7" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0009" x="5200" y="0" width="575" height="664" frameX="-12" frameY="-7" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0010" x="5200" y="0" width="575" height="664" frameX="-12" frameY="-7" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0011" x="5200" y="0" width="575" height="664" frameX="-12" frameY="-7" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0012" x="5200" y="0" width="575" height="664" frameX="-12" frameY="-7" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle0013" x="5200" y="0" width="575" height="664" frameX="-12" frameY="-7" frameWidth="591" frameHeight="671"/>
+	<SubTexture name="susbedo final phase idle alt0000" x="5775" y="0" width="591" height="671" frameX="0" frameY="-1" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0001" x="5775" y="0" width="591" height="671" frameX="0" frameY="-1" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0002" x="6366" y="0" width="585" height="672" frameX="-4" frameY="0" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0003" x="6366" y="0" width="585" height="672" frameX="-4" frameY="0" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0004" x="6951" y="0" width="581" height="672" frameX="-7" frameY="0" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0005" x="6951" y="0" width="581" height="672" frameX="-7" frameY="0" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0006" x="7532" y="0" width="577" height="669" frameX="-10" frameY="-3" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0007" x="7532" y="0" width="577" height="669" frameX="-10" frameY="-3" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0008" x="0" y="718" width="575" height="664" frameX="-12" frameY="-8" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0009" x="0" y="718" width="575" height="664" frameX="-12" frameY="-8" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0010" x="0" y="718" width="575" height="664" frameX="-12" frameY="-8" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0011" x="0" y="718" width="575" height="664" frameX="-12" frameY="-8" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0012" x="0" y="718" width="575" height="664" frameX="-12" frameY="-8" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase idle alt0013" x="0" y="718" width="575" height="664" frameX="-12" frameY="-8" frameWidth="591" frameHeight="672"/>
+	<SubTexture name="susbedo final phase left0000" x="575" y="718" width="659" height="652" frameX="0" frameY="0" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0001" x="575" y="718" width="659" height="652" frameX="0" frameY="0" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0002" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0003" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0004" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0005" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0006" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0007" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0008" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0009" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0010" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0011" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0012" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0013" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left0014" x="1234" y="718" width="652" height="649" frameX="-2" frameY="-7" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0000" x="1886" y="718" width="659" height="652" frameX="0" frameY="0" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0001" x="1886" y="718" width="659" height="652" frameX="0" frameY="0" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0002" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0003" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0004" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0005" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0006" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0007" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0008" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0009" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0010" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0011" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0012" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0013" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase left alt0014" x="2545" y="718" width="651" height="650" frameX="-2" frameY="-6" frameWidth="659" frameHeight="656"/>
+	<SubTexture name="susbedo final phase right0000" x="3196" y="718" width="620" height="663" frameX="0" frameY="-6" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0001" x="3196" y="718" width="620" height="663" frameX="0" frameY="-6" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0002" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0003" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0004" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0005" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0006" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0007" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0008" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0009" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0010" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0011" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0012" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0013" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right0014" x="3816" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0000" x="4423" y="718" width="620" height="663" frameX="0" frameY="-6" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0001" x="4423" y="718" width="620" height="663" frameX="0" frameY="-6" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0002" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0003" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0004" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0005" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0006" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0007" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0008" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0009" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0010" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0011" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0012" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0013" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase right alt0014" x="5043" y="718" width="607" height="673" frameX="-9" frameY="0" frameWidth="620" frameHeight="673"/>
+	<SubTexture name="susbedo final phase up0000" x="5650" y="718" width="516" height="690" frameX="-4" frameY="0" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0001" x="5650" y="718" width="516" height="690" frameX="-4" frameY="0" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0002" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0003" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0004" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0005" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0006" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0007" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0008" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0009" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0010" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0011" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0012" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0013" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up0014" x="6166" y="718" width="521" height="681" frameX="0" frameY="-9" frameWidth="521" frameHeight="690"/>
+	<SubTexture name="susbedo final phase up alt0000" x="6687" y="718" width="516" height="689" frameX="-4" frameY="0" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0001" x="6687" y="718" width="516" height="689" frameX="-4" frameY="0" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0002" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0003" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0004" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0005" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0006" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0007" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0008" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0009" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0010" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0011" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0012" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0013" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo final phase up alt0014" x="7203" y="718" width="521" height="681" frameX="0" frameY="-8" frameWidth="521" frameHeight="689"/>
+	<SubTexture name="susbedo scream0000" x="0" y="1408" width="560" height="664" frameX="-31" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0001" x="560" y="1408" width="562" height="664" frameX="-30" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0002" x="1122" y="1408" width="563" height="664" frameX="-29" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0003" x="1685" y="1408" width="564" height="664" frameX="-29" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0004" x="2249" y="1408" width="565" height="664" frameX="-28" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0005" x="2814" y="1408" width="567" height="664" frameX="-27" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0006" x="3381" y="1408" width="567" height="664" frameX="-27" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0007" x="3948" y="1408" width="568" height="664" frameX="-26" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0008" x="4516" y="1408" width="567" height="664" frameX="-26" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0009" x="5083" y="1408" width="568" height="664" frameX="-25" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0010" x="5651" y="1408" width="568" height="664" frameX="-25" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0011" x="6219" y="1408" width="568" height="664" frameX="-24" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0012" x="6787" y="1408" width="567" height="664" frameX="-24" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0013" x="7354" y="1408" width="566" height="664" frameX="-24" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0014" x="0" y="2072" width="566" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0015" x="566" y="2072" width="565" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0016" x="1131" y="2072" width="563" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0017" x="1694" y="2072" width="562" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0018" x="2256" y="2072" width="561" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0019" x="2817" y="2072" width="560" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0020" x="3377" y="2072" width="558" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0021" x="3935" y="2072" width="556" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0022" x="4491" y="2072" width="554" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0023" x="5045" y="2072" width="552" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0024" x="5597" y="2072" width="549" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0025" x="6146" y="2072" width="547" height="664" frameX="-22" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0026" x="6693" y="2072" width="543" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0027" x="7236" y="2072" width="540" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0028" x="0" y="2736" width="537" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0029" x="537" y="2736" width="533" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0030" x="1070" y="2736" width="529" height="664" frameX="-23" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0031" x="1599" y="2736" width="524" height="664" frameX="-24" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0032" x="2123" y="2736" width="520" height="664" frameX="-24" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0033" x="2643" y="2736" width="515" height="664" frameX="-25" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0034" x="3158" y="2736" width="511" height="664" frameX="-25" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0035" x="3669" y="2736" width="506" height="664" frameX="-26" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0036" x="4175" y="2736" width="501" height="664" frameX="-26" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0037" x="4676" y="2736" width="496" height="664" frameX="-27" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0038" x="5172" y="2736" width="491" height="664" frameX="-27" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0039" x="5663" y="2736" width="485" height="664" frameX="-28" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0040" x="6148" y="2736" width="479" height="664" frameX="-29" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0041" x="6627" y="2736" width="475" height="664" frameX="-30" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0042" x="7102" y="2736" width="473" height="664" frameX="-30" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0043" x="7575" y="2736" width="472" height="664" frameX="-31" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0044" x="0" y="3400" width="469" height="664" frameX="-32" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0045" x="469" y="3400" width="467" height="664" frameX="-33" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0046" x="936" y="3400" width="464" height="664" frameX="-34" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0047" x="1400" y="3400" width="462" height="664" frameX="-35" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0048" x="1862" y="3400" width="459" height="664" frameX="-36" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0049" x="2321" y="3400" width="457" height="664" frameX="-37" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0050" x="2778" y="3400" width="456" height="663" frameX="-37" frameY="-17" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0051" x="3234" y="3400" width="456" height="663" frameX="-37" frameY="-17" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0052" x="3690" y="3400" width="456" height="664" frameX="-37" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0053" x="4146" y="3400" width="456" height="664" frameX="-37" frameY="-16" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0054" x="4602" y="3400" width="456" height="665" frameX="-37" frameY="-15" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0055" x="4602" y="3400" width="456" height="665" frameX="-37" frameY="-15" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0056" x="5058" y="3400" width="456" height="666" frameX="-37" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0057" x="5514" y="3400" width="456" height="667" frameX="-37" frameY="-13" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0058" x="5970" y="3400" width="456" height="667" frameX="-37" frameY="-13" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0059" x="6426" y="3400" width="456" height="668" frameX="-37" frameY="-12" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0060" x="6882" y="3400" width="456" height="668" frameX="-37" frameY="-12" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0061" x="7338" y="3400" width="456" height="669" frameX="-37" frameY="-11" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0062" x="0" y="4069" width="456" height="669" frameX="-37" frameY="-11" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0063" x="456" y="4069" width="456" height="669" frameX="-37" frameY="-11" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0064" x="912" y="4069" width="456" height="670" frameX="-37" frameY="-10" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0065" x="1368" y="4069" width="456" height="670" frameX="-37" frameY="-10" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0066" x="1824" y="4069" width="456" height="671" frameX="-37" frameY="-9" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0067" x="2280" y="4069" width="456" height="671" frameX="-37" frameY="-9" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0068" x="2736" y="4069" width="456" height="672" frameX="-37" frameY="-8" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0069" x="3192" y="4069" width="456" height="672" frameX="-37" frameY="-8" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0070" x="3648" y="4069" width="456" height="673" frameX="-37" frameY="-7" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0071" x="4104" y="4069" width="456" height="673" frameX="-37" frameY="-7" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0072" x="4560" y="4069" width="456" height="673" frameX="-37" frameY="-7" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0073" x="5016" y="4069" width="456" height="674" frameX="-37" frameY="-6" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0074" x="5472" y="4069" width="456" height="674" frameX="-37" frameY="-6" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0075" x="5928" y="4069" width="456" height="675" frameX="-37" frameY="-5" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0076" x="6384" y="4069" width="456" height="675" frameX="-37" frameY="-5" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0077" x="6840" y="4069" width="456" height="675" frameX="-37" frameY="-5" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0078" x="7296" y="4069" width="456" height="676" frameX="-37" frameY="-4" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0079" x="0" y="4745" width="456" height="676" frameX="-37" frameY="-4" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0080" x="456" y="4745" width="456" height="676" frameX="-37" frameY="-4" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0081" x="912" y="4745" width="456" height="677" frameX="-37" frameY="-3" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0082" x="1368" y="4745" width="456" height="677" frameX="-37" frameY="-3" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0083" x="1824" y="4745" width="456" height="677" frameX="-37" frameY="-3" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0084" x="2280" y="4745" width="456" height="678" frameX="-37" frameY="-2" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0085" x="2736" y="4745" width="456" height="678" frameX="-37" frameY="-2" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0086" x="3192" y="4745" width="456" height="678" frameX="-37" frameY="-2" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0087" x="3648" y="4745" width="456" height="679" frameX="-37" frameY="-1" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0088" x="4104" y="4745" width="456" height="679" frameX="-37" frameY="-1" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0089" x="4560" y="4745" width="456" height="679" frameX="-37" frameY="-1" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0090" x="5016" y="4745" width="456" height="680" frameX="-37" frameY="0" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0091" x="5472" y="4745" width="456" height="680" frameX="-37" frameY="0" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0092" x="5928" y="4745" width="456" height="680" frameX="-37" frameY="0" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0093" x="6384" y="4745" width="456" height="680" frameX="-37" frameY="0" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0094" x="6384" y="4745" width="456" height="680" frameX="-37" frameY="0" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0095" x="6840" y="4745" width="310" height="537" frameX="-130" frameY="-53" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0096" x="6840" y="4745" width="310" height="537" frameX="-130" frameY="-53" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0097" x="7150" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0098" x="7150" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0099" x="7150" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0100" x="7150" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0101" x="7459" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0102" x="7768" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0103" x="0" y="5425" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0104" x="7459" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0105" x="7768" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0106" x="0" y="5425" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0107" x="7459" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0108" x="7768" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0109" x="0" y="5425" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0110" x="7459" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0111" x="7768" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0112" x="0" y="5425" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0113" x="7459" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0114" x="7768" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0115" x="0" y="5425" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0116" x="7459" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0117" x="7768" y="4745" width="309" height="527" frameX="-132" frameY="-63" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0118" x="309" y="5425" width="621" height="668" frameX="0" frameY="-12" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0119" x="309" y="5425" width="621" height="668" frameX="0" frameY="-12" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0120" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0121" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0122" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0123" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0124" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0125" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0126" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0127" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0128" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0129" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0130" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0131" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0132" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0133" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0134" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0135" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0136" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0137" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0138" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0139" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0140" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0141" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0142" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0143" x="1547" y="5425" width="624" height="666" frameX="-1" frameY="-14" frameWidth="625" frameHeight="680"/>
+	<SubTexture name="susbedo scream0144" x="930" y="5425" width="617" height="666" frameX="-4" frameY="-14" frameWidth="625" frameHeight="680"/>
+</TextureAtlas>

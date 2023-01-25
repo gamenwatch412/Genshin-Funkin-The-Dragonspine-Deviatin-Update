@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-110,
+		50
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"idle_offsets": [
+				40,
+				265
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				40,
+				265
+			],
+			"idle_name": "susbedo dialogue neutral10005",
+			"loop_name": "susbedo dialogue neutral"
+		},
+		{
+			"idle_offsets": [
+				40,
+				263
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				40,
+				263
+			],
+			"idle_name": "susbedo dialogue sad10005",
+			"loop_name": "susbedo dialogue sad"
+		},
+		{
+			"idle_offsets": [
+				40,
+				260
+			],
+			"anim": "smile",
+			"loop_offsets": [
+				40,
+				260
+			],
+			"idle_name": "susbedo dialogue smile10005",
+			"loop_name": "susbedo dialogue smile"
+		}
+	],
+	"image": "susbedo dialogue"
+}

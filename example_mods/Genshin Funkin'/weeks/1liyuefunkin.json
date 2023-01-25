@@ -1,0 +1,49 @@
+{
+	"storyName": "liyue funkin'",
+	"difficulties": "Easy, Normal, Alt",
+	"hideFreeplay": false,
+	"weekBackground": "liyue",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Koguchi Monou",
+			"xingqiu",
+			[
+				51,
+				98,
+				124
+			]
+		],
+		[
+			"Let the Wind Tell You",
+			"xingqiu",
+			[
+				51,
+				98,
+				124
+			]
+		],
+		[
+			"Hikaru Nara",
+			"xingqiu",
+			[
+				51,
+				98,
+				124
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		"liyuefunkin"
+	],
+	"weekName": "Liyue Funkin'"
+}
