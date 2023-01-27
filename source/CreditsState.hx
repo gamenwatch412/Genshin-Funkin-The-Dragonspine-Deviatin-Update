@@ -110,7 +110,7 @@ class CreditsState extends MusicBeatState
 			['NoahWantsDie',						'blank',		'MIDI Provider for new Endless Remix',															'https://github.com/NoahWantsDie/fnf-shits',													'FFCBA03'],
 			['Vzer',								'vzer',			'Original Composer for Crimson (Selever)',														'https://www.youtube.com/c/Vzerafael',															'0xFFFC8006'],
 			['Rozebud',								'blank',		'Original Composer for Madness (Tricky)',														'https://www.youtube.com/c/Rozebud',															'0xFF191699'],
-			['miditechx',							'blank',		"Helped Transcribe Cryo Albedo's Theme into MIDI",												'https://www.fiverr.com/share/75aEzy',															'0xFF88c27c'],
+			['miditechx',							'blank',		"Helped Transcribe Fury Unleashed into MIDI",													'https://www.fiverr.com/share/75aEzy',															'0xFF88c27c'],
 			[''],
 			['Original Voice Actors'],
 			['Brianna Knickerbocker',		'blank',		'Voice source for Hu Tao',				'https://twitter.com/briannanoellek',	'0xFF684043'],
