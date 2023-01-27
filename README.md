@@ -9,7 +9,7 @@ Across the vast world of Teyvat, a rap battle is bound to occur.<br />
 Made on Psych Engine v0.5.2h
 
 # Credits
-### Team Credits in-game
+## Team Credits in-game
 
 ### Friday Night Funkin'
  - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
@@ -18,12 +18,12 @@ Made on Psych Engine v0.5.2h
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.'
 
-### Psych Engine:
+## Psych Engine:
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
 
-## Special Thanks
+### Special Thanks
 * shubs - New Input System
 * SqirraRNG - Chart Editor's Sound Waveform base code
 * iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds
@@ -47,17 +47,6 @@ To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/Pow
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
-## Credits:
-* Shadow Mario - Coding
-* RiverOaken - Arts and Animations
-* bbpanzu - Assistant Coding
-
-### Special Thanks
-* shubs - New Input System
-* SqirraRNG - Chart Editor's Sound Waveform base code
-* iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds
-* PolybiusProxy - .MP4 Loader Extension
-* Keoiki - Note Splash Animations
 _____________________________________
 
 # Features
