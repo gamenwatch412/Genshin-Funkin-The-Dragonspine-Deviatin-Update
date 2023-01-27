@@ -18,6 +18,18 @@ Made on Psych Engine v0.5.2h
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.'
 
+### Psych Engine:
+* Shadow Mario - Coding
+* RiverOaken - Arts and Animations
+* bbpanzu - Assistant Coding
+
+## Special Thanks
+* shubs - New Input System
+* SqirraRNG - Chart Editor's Sound Waveform base code
+* iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds
+* PolybiusProxy - .MP4 Loader Extension
+* Keoiki - Note Splash Animations
+
 ### Genshin Impact
  - [Hoyoverse](https://twitter.com/GenshinImpact)
  
