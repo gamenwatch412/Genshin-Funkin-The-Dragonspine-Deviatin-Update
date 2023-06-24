@@ -280,7 +280,7 @@ class TitleState extends MusicBeatState
 		logoBl.scale.set(0.69, 0.69); //lmao funny number
 		// logoBl.color = FlxColor.BLACK;
 
-		backgroundTitle = new FlxSprite().loadGraphic(Paths.image('titleBackgrounds/titlebackground-' + FlxG.random.int(1, 4)));
+		backgroundTitle = new FlxSprite().loadGraphic(Paths.image('titleBackgrounds/titlebackground-' + FlxG.random.int(1, 5)));
 		backgroundTitle.screenCenter();
  		backgroundTitle.antialiasing = ClientPrefs.globalAntialiasing;
 
