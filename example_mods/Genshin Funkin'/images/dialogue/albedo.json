@@ -1,50 +1,51 @@
 {
-	"dialogue_pos": "left",
 	"position": [
 		-110,
 		50
 	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
 	"scale": 1.3,
+	"image": "albedo dialogue",
 	"animations": [
 		{
-			"idle_offsets": [
-				40,
-				265
+			"loop_offsets": [
+				39,
+				154
 			],
 			"anim": "neutral",
-			"loop_offsets": [
-				40,
-				265
+			"idle_offsets": [
+				39,
+				154
 			],
-			"idle_name": "albedo dialogue neutral10005",
-			"loop_name": "albedo dialogue neutral"
+			"loop_name": "albedo dialogue neutral",
+			"idle_name": "albedo dialogue neutral10005"
 		},
 		{
-			"idle_offsets": [
-				40,
-				264
+			"loop_offsets": [
+				39,
+				154
 			],
 			"anim": "sad",
-			"loop_offsets": [
-				40,
-				264
+			"idle_offsets": [
+				39,
+				154
 			],
-			"idle_name": "albedo dialogue sad10005",
-			"loop_name": "albedo dialogue sad"
+			"loop_name": "albedo dialogue sad",
+			"idle_name": "albedo dialogue sad10005"
 		},
 		{
-			"idle_offsets": [
-				40,
-				260
+			"loop_offsets": [
+				39,
+				154
 			],
 			"anim": "smile",
-			"loop_offsets": [
-				40,
-				260
+			"idle_offsets": [
+				39,
+				154
 			],
-			"idle_name": "albedo dialogue smile10005",
-			"loop_name": "albedo dialogue smile"
+			"loop_name": "albedo dialogue smile",
+			"idle_name": "albedo dialogue smile10005"
 		}
-	],
-	"image": "albedo dialogue"
+	]
 }

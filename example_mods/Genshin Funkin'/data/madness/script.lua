@@ -9,9 +9,9 @@ local del = 0;
 local del2 = 0;
 
 function onCreate()
-	makeAnimatedLuaSprite('raiden shogun', 'characters/raiden_shogun', -400, 0);
-	addAnimationByPrefix('raiden shogun', 'idle', 'raiden shogun Idle', 24, false);
-	scaleObject('raiden shogun', 0.8, 0.8);
+	makeAnimatedLuaSprite('raiden shogun', 'characters/raiden_shogun', -600, 90);
+	addAnimationByPrefix('raiden shogun', 'idle', 'raiden shogun idle', 24, false);
+	scaleObject('raiden shogun', 0.9, 0.9);
 	addLuaSprite('raiden shogun', false);
 	setProperty('timeBar.color', getColorFromHex('a757cb'));
 end

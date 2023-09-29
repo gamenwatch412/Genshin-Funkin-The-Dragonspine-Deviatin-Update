@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "hu-tao-opponent",
+		"player3": null,
+		"events": [
+			[
+				720,
+				[
+					[
+						"Intro",
+						"To You On The Other Side",
+						"多多poi and 宴宁ccccc"
+					]
+				]
+			],
+			[
+				42240,
+				[
+					[
+						"Hey!",
+						"peepeepoopoo",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "arana",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "To You On The Other Side"
+	}
+}

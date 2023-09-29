@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="confetti.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confetti fall0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="confetti fall0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="confetti fall0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="confetti fall0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="confetti fall0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="confetti fall0005" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="confetti fall0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="confetti fall0007" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="confetti fall0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="confetti fall0009" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="confetti fall0010" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="confetti fall0011" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="confetti fall0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="confetti fall0013" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="confetti fall0014" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="confetti fall0015" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="confetti fall0016" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="confetti fall0017" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="confetti fall0018" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="confetti fall0019" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="confetti fall0020" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="confetti fall0021" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="confetti fall0022" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="confetti fall0023" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="confetti fall0024" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="confetti fall0025" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="confetti fall0026" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="confetti fall0027" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="confetti fall0028" x="5120" y="2880" width="1280" height="720"/>
+	<SubTexture name="confetti fall0029" x="6400" y="2880" width="1280" height="720"/>
+	<SubTexture name="confetti fall0030" x="0" y="3600" width="1280" height="720"/>
+	<SubTexture name="confetti fall0031" x="1280" y="3600" width="1280" height="720"/>
+	<SubTexture name="confetti fall0032" x="2560" y="3600" width="1280" height="720"/>
+	<SubTexture name="confetti fall0033" x="3840" y="3600" width="1280" height="720"/>
+	<SubTexture name="confetti fall0034" x="5120" y="3600" width="1280" height="720"/>
+	<SubTexture name="confetti fall0035" x="6400" y="3600" width="1280" height="720"/>
+	<SubTexture name="confetti fall0036" x="0" y="4320" width="1280" height="720"/>
+	<SubTexture name="confetti fall0037" x="1280" y="4320" width="1280" height="720"/>
+	<SubTexture name="confetti fall0038" x="2560" y="4320" width="1280" height="720"/>
+	<SubTexture name="confetti fall0039" x="3840" y="4320" width="1280" height="720"/>
+	<SubTexture name="confetti fall0040" x="5120" y="4320" width="1280" height="720"/>
+	<SubTexture name="confetti fall0041" x="6400" y="4320" width="1280" height="720"/>
+	<SubTexture name="confetti fall0042" x="0" y="5040" width="1280" height="720"/>
+	<SubTexture name="confetti fall0043" x="1280" y="5040" width="1280" height="720"/>
+	<SubTexture name="confetti fall0044" x="2560" y="5040" width="1280" height="720"/>
+	<SubTexture name="confetti fall0045" x="3840" y="5040" width="1280" height="720"/>
+	<SubTexture name="confetti fall0046" x="5120" y="5040" width="1280" height="720"/>
+</TextureAtlas>

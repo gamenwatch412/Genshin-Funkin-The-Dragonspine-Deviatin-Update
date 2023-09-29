@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "liyue",
+		"player1": "xingqiu-player",
+		"player2": "hu-tao-opponent",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"胡口桃生 (Hu Tao)",
+						"                                                 Brianna Knickerbocker & Raayo"
+					]
+				]
+			],
+			[
+				107291.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.73",
+						""
+					]
+				]
+			],
+			[
+				142916.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.76",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chongyun",
+		"bpm": 108,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hu Tao Alt"
+	}
+}

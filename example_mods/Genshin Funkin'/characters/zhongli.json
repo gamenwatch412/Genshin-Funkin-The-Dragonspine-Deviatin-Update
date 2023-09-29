@@ -1,34 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
+			"fps": 24,
+			"name": "zhongli idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-144,
+				-167
+			],
 			"loop": false,
-			"name": "zhongli Idle"
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zhongli left"
+		},
+		{
+			"offsets": [
+				-296,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zhongli right"
+		},
+		{
+			"offsets": [
+				-240,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zhongli up"
+		},
+		{
+			"offsets": [
+				-236,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zhongli down"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/zhongli",
 	"position": [
-		-1570,
-		-1000
+		-640,
+		-550
 	],
 	"healthicon": "zhongli",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		51,
+		30,
+		26
 	],
 	"camera_position": [
-		0,
-		0
+		330,
+		330
 	],
 	"sing_duration": 4,
-	"scale": 0.4
+	"scale": 0.9
 }

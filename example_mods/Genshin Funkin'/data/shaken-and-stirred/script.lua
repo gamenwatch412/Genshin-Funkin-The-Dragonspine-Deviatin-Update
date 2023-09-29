@@ -1,5 +1,6 @@
 function onCreate()
 setProperty('timeBar.color', getColorFromHex('72e2c3'))
+setObjectOrder('cups',6)
 setObjectOrder('gfGroup',5)
 setObjectOrder('barset',4)
 setObjectOrder('object',3)
@@ -34,6 +35,7 @@ if curStep == 220 then
     noteTweenX('NoteMove3', 6, 580, 0.2, 'quartInOut')
     noteTweenX('NoteMove4', 7, 580, 0.2, 'quartInOut')
     doTweenY('moveCharY', 'gf', 0, 0.2, 'linear')
+    doTweenY('moveCupsY', 'cups', 0, 0.2, 'linear')
   end
 if curStep == 350 then
     noteTweenX('play0', 4, 415, 0.2, 'quartInOut')
@@ -41,6 +43,7 @@ if curStep == 350 then
     noteTweenX('play2', 6, 635, 0.2, 'quartInOut')
     noteTweenX('play3', 7, 745, 0.2, 'quartInOut')
     doTweenY('moveCharY', 'gf', 1500, 0.2, 'linear')
+    doTweenY('moveCupsY', 'cups', 1500, 0.2, 'linear')
   end
 if curStep == 604 then
     noteTweenX('NoteMove1', 4, 580, 0.2, 'quartInOut')
@@ -48,6 +51,7 @@ if curStep == 604 then
     noteTweenX('NoteMove3', 6, 580, 0.2, 'quartInOut')
     noteTweenX('NoteMove4', 7, 580, 0.2, 'quartInOut')
     doTweenY('moveCharY', 'gf', 0, 0.2, 'linear')
+    doTweenY('moveCupsY', 'cups', 0, 0.2, 'linear')
   end
 if curStep == 734 then
     noteTweenX('play0', 4, 415, 0.2, 'quartInOut')
@@ -55,6 +59,7 @@ if curStep == 734 then
     noteTweenX('play2', 6, 635, 0.2, 'quartInOut')
     noteTweenX('play3', 7, 745, 0.2, 'quartInOut')
     doTweenY('moveCharY', 'gf', 1500, 0.2, 'linear')
+    doTweenY('moveCupsY', 'cups', 1500, 0.2, 'linear')
   end
 if curStep == 989 then
     noteTweenX('NoteMove1', 4, 580, 0.2, 'quartInOut')
@@ -62,6 +67,7 @@ if curStep == 989 then
     noteTweenX('NoteMove3', 6, 580, 0.2, 'quartInOut')
     noteTweenX('NoteMove4', 7, 580, 0.2, 'quartInOut')
     doTweenY('moveCharY', 'gf', 0, 0.2, 'linear')
+    doTweenY('moveCupsY', 'cups', 0, 0.2, 'linear')
   end
 if curStep == 1118 then
     noteTweenX('play0', 4, 415, 0.2, 'quartInOut')
@@ -69,5 +75,12 @@ if curStep == 1118 then
     noteTweenX('play2', 6, 635, 0.2, 'quartInOut')
     noteTweenX('play3', 7, 745, 0.2, 'quartInOut')
     doTweenY('moveCharY', 'gf', 1500, 0.2, 'linear')
+    doTweenY('moveCupsY', 'cups', 1500, 0.2, 'linear')
   end
+end
+
+function onBeatHit()
+	if curBeat % 1 == 0 then
+	objectPlayAnimation('cups', 'cups bounce', true)
+	end
 end

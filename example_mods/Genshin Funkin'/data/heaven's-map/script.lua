@@ -72,5 +72,18 @@ function onUpdate()
     else
         triggerEvent('Camera Follow Pos','','')
     end
+	
+for i = 0, getProperty('notes.length')-1 do
+		--Check if the note is an Instakill Note
+		if getPropertyFromGroup('notes', i, 'noteType') == 'Second Dad Sing' then
+
+			if getPropertyFromGroup('notes', i, 'mustPress') then
+				if getPropertyFromGroup('notes', i, 'strumTime') <= getSongPosition() then --Doesn't let Dad/Opponent notes get ignored
+					nd = getPropertyFromGroup('notes', i, 'noteData')
+					triggerEvent('dad2sing',nd,'')
+					--objectPlayAnimation('secondDad',nd,true)
+				end
+			end
+		end
     
 end

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				838,
+				487
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "albedo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				838,
+				339
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "albedo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				831,
+				527
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "albedo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				837,
+				297
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "albedo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				839,
+				314
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "albedo left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/albedo-janky",
+	"position": [
+		710,
+		350
+	],
+	"healthicon": "albedo",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		244,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

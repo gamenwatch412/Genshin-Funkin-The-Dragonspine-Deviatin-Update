@@ -109,21 +109,21 @@
 	<SubTexture name="Aether Note Right0059" x="0" y="693" width="666" height="653" frameX="-8" frameY="0" frameWidth="674" frameHeight="665"/>
 	<SubTexture name="Aether Note Right0060" x="0" y="693" width="666" height="653" frameX="-8" frameY="0" frameWidth="674" frameHeight="665"/>
 	<SubTexture name="Aether Note Right0061" x="0" y="693" width="666" height="653" frameX="-8" frameY="0" frameWidth="674" frameHeight="665"/>
-	<SubTexture name="Aether Note Up0000" x="666" y="693" width="698" height="634"/>
-	<SubTexture name="Aether Note Up0001" x="666" y="693" width="698" height="634"/>
-	<SubTexture name="Aether Note Up0002" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0003" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0004" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0005" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0006" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0007" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0008" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0009" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0010" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0011" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0012" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0013" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
-	<SubTexture name="Aether Note Up0014" x="1364" y="693" width="692" height="622" frameX="-1" frameY="-10" frameWidth="698" frameHeight="634"/>
+	<SubTexture name="Aether Note Up0000" x="666" y="693" width="698" height="629"/>
+	<SubTexture name="Aether Note Up0001" x="666" y="693" width="698" height="629"/>
+	<SubTexture name="Aether Note Up0002" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0003" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0004" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0005" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0006" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0007" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0008" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0009" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0010" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0011" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0012" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0013" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
+	<SubTexture name="Aether Note Up0014" x="1364" y="693" width="692" height="617" frameX="-1" frameY="-10" frameWidth="698" frameHeight="629"/>
 	<SubTexture name="Aether Peace0000" x="2056" y="693" width="665" height="613"/>
 	<SubTexture name="Aether Peace0001" x="2056" y="693" width="665" height="613"/>
 	<SubTexture name="Aether Peace0002" x="2721" y="693" width="624" height="585" frameX="-9" frameY="-11" frameWidth="665" frameHeight="613"/>

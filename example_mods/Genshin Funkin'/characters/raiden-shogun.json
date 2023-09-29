@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "raiden shogun idle"
+		},
+		{
+			"offsets": [
+				-131,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "raiden shogun left"
+		},
+		{
+			"offsets": [
+				-114,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "raiden shogun down"
+		},
+		{
+			"offsets": [
+				-247,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "raiden shogun up"
+		},
+		{
+			"offsets": [
+				-255,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "raiden shogun right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raiden_shogun",
+	"position": [
+		-170,
+		-50
+	],
+	"healthicon": "raiden-shogun",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		18,
+		77
+	],
+	"camera_position": [
+		160,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "Fontaine Frolicin'",
+	"difficulties": "Easy, Normal, Alt",
+	"hideFreeplay": true,
+	"weekBackground": "fontaine",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "amogus",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"TBA",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

@@ -1743,12 +1743,7 @@ class PlayState extends MusicBeatState
 		previousFrameTime = FlxG.game.ticks;
 		lastReportedPlayheadPosition = 0;
 
-		if (!paused) {
-			if (storyDifficulty == 4)
-				FlxG.sound.playMusic(Paths.instErect(PlayState.SONG.song), 1, false);
-			else
-				FlxG.sound.playMusic(Paths.inst(PlayState.SONG.song), 1, false);
-		}
+		FlxG.sound.playMusic(Paths.inst(PlayState.SONG.song), 1, false);
 		FlxG.sound.music.onComplete = onSongComplete;
 		vocals.play();
 
@@ -1799,11 +1794,8 @@ class PlayState extends MusicBeatState
 		curSong = songData.song;
 
 		if (SONG.needsVoices)
-			if (storyDifficulty == 4) {
-				vocals = new FlxSound().loadEmbedded(Paths.voicesErect(PlayState.SONG.song));
-			else
 			vocals = new FlxSound().loadEmbedded(Paths.voices(PlayState.SONG.song));
-			} else
+		else
 			vocals = new FlxSound();
 
 		FlxG.sound.list.add(vocals);

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sumeru",
+		"player1": "hu-tao",
+		"player2": "nahida",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Manifest (Sky)",
+						"bbpanzu\nVocal Cover by Gamenwatch412"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "arama",
+		"bpm": 225,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Manifest"
+	}
+}

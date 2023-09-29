@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nahida idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nahida down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nahida up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "nahida right"
+		},
+		{
+			"offsets": [
+				-38,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "nahida left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nahida",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "nahida",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		127,
+		59
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

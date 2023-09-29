@@ -2,65 +2,65 @@
 	"animations": [
 		{
 			"offsets": [
-				842,
-				514
+				824,
+				397
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "susbedo idle"
 		},
 		{
 			"offsets": [
-				838,
-				338
+				835,
+				312
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "susbedo down"
 		},
 		{
 			"offsets": [
-				831,
-				527
+				829,
+				555
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "susbedo up"
 		},
 		{
 			"offsets": [
-				837,
-				300
+				836,
+				307
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "susbedo right"
 		},
 		{
 			"offsets": [
-				839,
-				314
+				829,
+				327
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "susbedo left"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/susbedo",
 	"position": [
-		710,
-		350
+		730,
+		370
 	],
 	"healthicon": "albedo",
 	"flip_x": false,

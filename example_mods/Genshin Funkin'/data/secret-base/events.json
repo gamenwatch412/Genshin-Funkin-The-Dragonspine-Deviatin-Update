@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "sumeru",
+		"player1": "hu-tao",
+		"player2": "nahida",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Secret Base",
+						"多多poi, 宴宁ccccc and 花玲"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "arana",
+		"bpm": 134,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Secret Base"
+	}
+}

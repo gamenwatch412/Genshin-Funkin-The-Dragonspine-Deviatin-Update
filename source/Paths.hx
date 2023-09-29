@@ -230,19 +230,6 @@ class Paths
 		var inst = returnSound('songs', songKey);
 		return inst;
 	}
-	inline static public function voicesErect(song:String):Any
-		{
-			var songKey:String = '${song.toLowerCase().replace(' ', '-')}/VoicesErect';
-			var voices = returnSound('songs', songKey);
-			return voicesErect;
-		}
-	
-		inline static public function instErect(song:String):Any
-		{
-			var songKey:String = '${song.toLowerCase().replace(' ', '-')}/InstErect';
-			var inst = returnSound('songs', songKey);
-			return instErect;
-		}
 	inline static public function image(key:String, ?library:String):FlxGraphic
 	{
 		// streamlined the assets process more

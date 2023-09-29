@@ -2,18 +2,68 @@
 <TextureAtlas imagePath="raiden_shogun.png">
 	<!-- Created with Adobe Animate version 21.0.1.37179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="raiden shogun Idle0000" x="0" y="0" width="856" height="1357" frameX="0" frameY="-28" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0001" x="0" y="0" width="856" height="1357" frameX="0" frameY="-28" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0002" x="856" y="0" width="842" height="1355" frameX="0" frameY="-32" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0003" x="856" y="0" width="842" height="1355" frameX="0" frameY="-32" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0004" x="1698" y="0" width="862" height="1383" frameX="0" frameY="-9" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0005" x="1698" y="0" width="862" height="1383" frameX="0" frameY="-9" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0006" x="2560" y="0" width="854" height="1390" frameX="0" frameY="-2" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0007" x="2560" y="0" width="854" height="1390" frameX="0" frameY="-2" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0008" x="0" y="1390" width="854" height="1392" frameX="0" frameY="0" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0009" x="0" y="1390" width="854" height="1392" frameX="0" frameY="0" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0010" x="0" y="1390" width="854" height="1392" frameX="0" frameY="0" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0011" x="0" y="1390" width="854" height="1392" frameX="0" frameY="0" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0012" x="0" y="1390" width="854" height="1392" frameX="0" frameY="0" frameWidth="862" frameHeight="1392"/>
-	<SubTexture name="raiden shogun Idle0013" x="0" y="1390" width="854" height="1392" frameX="0" frameY="0" frameWidth="862" frameHeight="1392"/>
+	<SubTexture name="raiden shogun down 0000" x="0" y="0" width="527" height="852"/>
+	<SubTexture name="raiden shogun down 0001" x="0" y="0" width="527" height="852"/>
+	<SubTexture name="raiden shogun down 0002" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0003" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0004" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0005" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0006" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0007" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0008" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0009" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0010" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0011" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0012" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0013" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun down 0014" x="527" y="0" width="495" height="848" frameX="-29" frameY="-4" frameWidth="527" frameHeight="852"/>
+	<SubTexture name="raiden shogun idle 0000" x="1022" y="0" width="746" height="887" frameX="0" frameY="-19" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0001" x="1022" y="0" width="746" height="887" frameX="0" frameY="-19" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0002" x="1768" y="0" width="746" height="886" frameX="0" frameY="-17" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0003" x="1768" y="0" width="746" height="886" frameX="0" frameY="-17" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0004" x="2514" y="0" width="747" height="886" frameX="0" frameY="-2" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0005" x="2514" y="0" width="747" height="886" frameX="0" frameY="-2" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0006" x="3261" y="0" width="748" height="887" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0007" x="3261" y="0" width="748" height="887" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0008" x="0" y="887" width="748" height="886" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0009" x="0" y="887" width="748" height="886" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0010" x="0" y="887" width="748" height="886" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0011" x="0" y="887" width="748" height="886" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0012" x="0" y="887" width="748" height="886" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun idle 0013" x="0" y="887" width="748" height="886" frameX="0" frameY="0" frameWidth="748" frameHeight="906"/>
+	<SubTexture name="raiden shogun left 0000" x="748" y="887" width="677" height="868"/>
+	<SubTexture name="raiden shogun left 0001" x="748" y="887" width="677" height="868"/>
+	<SubTexture name="raiden shogun left 0002" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0003" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0004" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0005" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0006" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0007" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0008" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun left 0009" x="1425" y="887" width="647" height="857" frameX="-22" frameY="-11" frameWidth="677" frameHeight="868"/>
+	<SubTexture name="raiden shogun right 0000" x="2072" y="887" width="442" height="867"/>
+	<SubTexture name="raiden shogun right 0001" x="2072" y="887" width="442" height="867"/>
+	<SubTexture name="raiden shogun right 0002" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0003" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0004" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0005" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0006" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0007" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0008" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun right 0009" x="2514" y="887" width="426" height="862" frameX="0" frameY="-5" frameWidth="442" frameHeight="867"/>
+	<SubTexture name="raiden shogun up 0000" x="2940" y="887" width="532" height="909"/>
+	<SubTexture name="raiden shogun up 0001" x="2940" y="887" width="532" height="909"/>
+	<SubTexture name="raiden shogun up 0002" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0003" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0004" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0005" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0006" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0007" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0008" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0009" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0010" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0011" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0012" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0013" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
+	<SubTexture name="raiden shogun up 0014" x="3472" y="887" width="518" height="881" frameX="-13" frameY="-28" frameWidth="532" frameHeight="909"/>
 </TextureAtlas>

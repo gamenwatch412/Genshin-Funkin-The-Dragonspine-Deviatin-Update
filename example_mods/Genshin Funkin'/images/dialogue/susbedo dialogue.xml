@@ -2,22 +2,22 @@
 <TextureAtlas imagePath="susbedo dialogue.png">
 	<!-- Created with Adobe Animate version 21.0.1.37179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="susbedo dialogue neutral0000" x="0" y="0" width="890" height="1055" frameX="-18" frameY="0" frameWidth="908" frameHeight="1055"/>
-	<SubTexture name="susbedo dialogue neutral0001" x="0" y="0" width="890" height="1055" frameX="-18" frameY="0" frameWidth="908" frameHeight="1055"/>
-	<SubTexture name="susbedo dialogue neutral0002" x="890" y="0" width="891" height="1038" frameX="-8" frameY="-14" frameWidth="908" frameHeight="1055"/>
-	<SubTexture name="susbedo dialogue neutral0003" x="890" y="0" width="891" height="1038" frameX="-8" frameY="-14" frameWidth="908" frameHeight="1055"/>
-	<SubTexture name="susbedo dialogue neutral0004" x="1781" y="0" width="892" height="1013" frameX="0" frameY="-38" frameWidth="908" frameHeight="1055"/>
-	<SubTexture name="susbedo dialogue neutral0005" x="1781" y="0" width="892" height="1013" frameX="0" frameY="-38" frameWidth="908" frameHeight="1055"/>
-	<SubTexture name="susbedo dialogue sad0000" x="2673" y="0" width="890" height="1052" frameX="-18" frameY="0" frameWidth="908" frameHeight="1052"/>
-	<SubTexture name="susbedo dialogue sad0001" x="2673" y="0" width="890" height="1052" frameX="-18" frameY="0" frameWidth="908" frameHeight="1052"/>
-	<SubTexture name="susbedo dialogue sad0002" x="0" y="1055" width="891" height="1035" frameX="-8" frameY="-14" frameWidth="908" frameHeight="1052"/>
-	<SubTexture name="susbedo dialogue sad0003" x="0" y="1055" width="891" height="1035" frameX="-8" frameY="-14" frameWidth="908" frameHeight="1052"/>
-	<SubTexture name="susbedo dialogue sad0004" x="891" y="1055" width="892" height="1013" frameX="0" frameY="-35" frameWidth="908" frameHeight="1052"/>
-	<SubTexture name="susbedo dialogue sad0005" x="891" y="1055" width="892" height="1013" frameX="0" frameY="-35" frameWidth="908" frameHeight="1052"/>
-	<SubTexture name="susbedo dialogue smile0000" x="1783" y="1055" width="890" height="1049" frameX="-18" frameY="0" frameWidth="908" frameHeight="1049"/>
-	<SubTexture name="susbedo dialogue smile0001" x="1783" y="1055" width="890" height="1049" frameX="-18" frameY="0" frameWidth="908" frameHeight="1049"/>
-	<SubTexture name="susbedo dialogue smile0002" x="2673" y="1055" width="891" height="1032" frameX="-8" frameY="-14" frameWidth="908" frameHeight="1049"/>
-	<SubTexture name="susbedo dialogue smile0003" x="2673" y="1055" width="891" height="1032" frameX="-8" frameY="-14" frameWidth="908" frameHeight="1049"/>
-	<SubTexture name="susbedo dialogue smile0004" x="0" y="2104" width="892" height="1014" frameX="0" frameY="-31" frameWidth="908" frameHeight="1049"/>
-	<SubTexture name="susbedo dialogue smile0005" x="0" y="2104" width="892" height="1014" frameX="0" frameY="-31" frameWidth="908" frameHeight="1049"/>
+	<SubTexture name="susbedo dialogue neutral0000" x="0" y="0" width="890" height="889" frameX="-18" frameY="0" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue neutral0001" x="0" y="0" width="890" height="889" frameX="-18" frameY="0" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue neutral0002" x="890" y="0" width="891" height="887" frameX="-8" frameY="-3" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue neutral0003" x="890" y="0" width="891" height="887" frameX="-8" frameY="-3" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue neutral0004" x="1781" y="0" width="892" height="887" frameX="0" frameY="-2" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue neutral0005" x="1781" y="0" width="892" height="887" frameX="0" frameY="-2" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue sad0000" x="2673" y="0" width="890" height="889" frameX="-18" frameY="0" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue sad0001" x="2673" y="0" width="890" height="889" frameX="-18" frameY="0" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue sad0002" x="0" y="889" width="891" height="887" frameX="-8" frameY="-3" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue sad0003" x="0" y="889" width="891" height="887" frameX="-8" frameY="-3" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue sad0004" x="891" y="889" width="892" height="887" frameX="0" frameY="-2" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue sad0005" x="891" y="889" width="892" height="887" frameX="0" frameY="-2" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue smile0000" x="1783" y="889" width="890" height="889" frameX="-18" frameY="0" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue smile0001" x="1783" y="889" width="890" height="889" frameX="-18" frameY="0" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue smile0002" x="2673" y="889" width="891" height="887" frameX="-8" frameY="-3" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue smile0003" x="2673" y="889" width="891" height="887" frameX="-8" frameY="-3" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue smile0004" x="0" y="1778" width="892" height="887" frameX="0" frameY="-2" frameWidth="908" frameHeight="890"/>
+	<SubTexture name="susbedo dialogue smile0005" x="0" y="1778" width="892" height="887" frameX="0" frameY="-2" frameWidth="908" frameHeight="890"/>
 </TextureAtlas>

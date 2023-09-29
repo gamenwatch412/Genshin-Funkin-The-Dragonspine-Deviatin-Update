@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				842,
+				514
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "susbedo idle"
+		},
+		{
+			"offsets": [
+				838,
+				338
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "susbedo down"
+		},
+		{
+			"offsets": [
+				831,
+				527
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "susbedo up"
+		},
+		{
+			"offsets": [
+				837,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "susbedo right"
+		},
+		{
+			"offsets": [
+				839,
+				314
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "susbedo left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/susbedo-janky",
+	"position": [
+		710,
+		350
+	],
+	"healthicon": "albedo",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		244,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

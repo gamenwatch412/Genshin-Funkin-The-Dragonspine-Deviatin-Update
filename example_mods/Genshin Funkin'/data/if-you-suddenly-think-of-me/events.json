@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "mondstadt-night",
+		"player1": "nahida-player",
+		"player2": "raiden-shogun",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"If you suddenly think of me",
+						"喵☆酱, 笨笨芄_彭博, 爆裂菊是也, and 花园花玲"
+					]
+				]
+			],
+			[
+				50934.7826086956,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51195.652173913,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				224282.608695653,
+				[
+					[
+						"Hey!",
+						"GF",
+						"3.14"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "venti",
+		"bpm": 115,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "If You Suddenly Think Of Me"
+	}
+}

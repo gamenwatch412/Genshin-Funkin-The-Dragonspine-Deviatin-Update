@@ -1,11 +1,17 @@
 Hello!
 If you're reading this, thank you for picking up our mod.
-This update took us a year's worth of time to complete so we hope you enjoy it.
 
 An important notice for those recording and showcasing this mod:
-The first three weeks contain copyrighted songs, so if you want to avoid those, we would recommend just playing
+The following weeks contain copyrighted songs:
+
+- Liyue Funkin'
+- Inazuma Rockin'
+- Mondstadt Balladin'
+- Sumeru Serenadin' + If You Suddenly Think of Me bonus song
+
+So if you want to avoid those, we would recommend just playing
 Dragonspine Deviatin' along with the bonus tracks for a full showcase experience. Feel free to play the
-first three weeks in your own time :)
+copyrighted weeks in your own time :)
 
 And now, a personal message from each of the dev team, please support us!:
 
@@ -26,4 +32,4 @@ be glad to receive some feedback! Hope you all enjoy your day.
 Minja (@minja4235 [Youtube])
 - Fun fact you are now breathing and blinking manually
 
-Thank you for taking the time to read this! Until then, stay safe and enjoy the mod!
+Thank you for taking the time to read this! Until then, stay safe and we hope you enjoy the mod!

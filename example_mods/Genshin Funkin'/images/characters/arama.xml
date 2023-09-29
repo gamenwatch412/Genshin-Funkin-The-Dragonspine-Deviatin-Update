@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arama.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arama cheer0000" x="0" y="0" width="700" height="742" frameX="-2" frameY="0" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0001" x="700" y="0" width="704" height="742"/>
+	<SubTexture name="arama cheer0002" x="1404" y="0" width="704" height="733" frameX="0" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0003" x="2108" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0004" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0005" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0006" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0007" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0008" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0009" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0010" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0011" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0012" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0013" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0014" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0015" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0016" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0017" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0018" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0019" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama cheer0020" x="2808" y="0" width="700" height="733" frameX="-2" frameY="-9" frameWidth="704" frameHeight="742"/>
+	<SubTexture name="arama dance0000" x="0" y="742" width="700" height="728" frameX="-2" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0001" x="700" y="742" width="704" height="728" frameX="0" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0002" x="1404" y="742" width="704" height="728" frameX="0" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0003" x="2108" y="742" width="700" height="728" frameX="-2" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0004" x="2808" y="742" width="700" height="728" frameX="-2" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0005" x="0" y="1470" width="700" height="728" frameX="-2" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0006" x="700" y="1470" width="700" height="726" frameX="-2" frameY="-8" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0007" x="1400" y="1470" width="700" height="726" frameX="-2" frameY="-8" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0008" x="2100" y="1470" width="700" height="730" frameX="-2" frameY="-4" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0009" x="2100" y="1470" width="700" height="730" frameX="-2" frameY="-4" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0010" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0011" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0012" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0013" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0014" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0015" x="0" y="2204" width="700" height="729" frameX="-2" frameY="-5" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0016" x="700" y="2204" width="704" height="729" frameX="0" frameY="-5" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0017" x="1404" y="2204" width="704" height="727" frameX="0" frameY="-7" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0018" x="2108" y="2204" width="700" height="727" frameX="-2" frameY="-7" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0019" x="2808" y="2204" width="700" height="728" frameX="-2" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0020" x="0" y="2933" width="700" height="728" frameX="-2" frameY="-6" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0021" x="700" y="2933" width="700" height="733" frameX="-2" frameY="-1" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0022" x="1400" y="2933" width="700" height="732" frameX="-2" frameY="-2" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0023" x="1400" y="2933" width="700" height="732" frameX="-2" frameY="-2" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0024" x="1400" y="2933" width="700" height="732" frameX="-2" frameY="-2" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0025" x="2100" y="2933" width="700" height="733" frameX="-2" frameY="-1" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0026" x="2100" y="2933" width="700" height="733" frameX="-2" frameY="-1" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0027" x="2100" y="2933" width="700" height="733" frameX="-2" frameY="-1" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0028" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+	<SubTexture name="arama dance0029" x="2800" y="1470" width="700" height="734" frameX="-2" frameY="0" frameWidth="704" frameHeight="734"/>
+</TextureAtlas>

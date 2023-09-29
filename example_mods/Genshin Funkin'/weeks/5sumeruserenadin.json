@@ -1,0 +1,49 @@
+{
+	"storyName": "Sumeru Serenadin'",
+	"difficulties": "Easy, Normal, Alt",
+	"hideFreeplay": false,
+	"weekBackground": "sumeru",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"To You on The Other Side",
+			"nahida",
+			[
+				94,
+				127,
+				59
+			]
+		],
+		[
+			"Secret Base",
+			"nahida",
+			[
+				94,
+				127,
+				59
+			]
+		],
+		[
+			"Raise You Up",
+			"nahida",
+			[
+				94,
+				127,
+				59
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		"sumeruserenadin"
+	],
+	"weekName": "Custom Week"
+}

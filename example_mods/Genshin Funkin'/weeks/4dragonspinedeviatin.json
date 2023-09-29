@@ -1,15 +1,21 @@
 {
 	"storyName": "dragonspine deviatin'",
-	"difficulties": "Easy, Normal",
+	"difficulties": "Easy, Normal, Erect",
 	"hideFreeplay": false,
 	"weekBackground": "dragonspine",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		"dragonspinedeviatin"
+	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Moonlike Smile",
@@ -38,12 +44,6 @@
 				234
 			]
 		]
-	],
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		"dragonspinedeviatin"
 	],
 	"weekName": "Dragonspine Deviatin'"
 }
