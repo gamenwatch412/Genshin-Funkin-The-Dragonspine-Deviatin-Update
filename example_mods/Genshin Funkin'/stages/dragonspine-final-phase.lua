@@ -25,6 +25,5 @@ end
 function onBeatHit()
 	if curBeat % 2 == 0 then
 	objectPlayAnimation('albedo', 'idle', true);
-		end
 	end
 end
